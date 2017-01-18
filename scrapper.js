@@ -20,9 +20,7 @@ const str = rl.question('Masukan keyword: ', function(key) {
 })
 
 function search(value) {
-    link.map(item =>  callUrl(item, value)
-
-    )
+    link.map(item =>  callUrl(item, value))
 }
 
 function callUrl(item, value) {
@@ -36,10 +34,18 @@ function callUrl(item, value) {
             const tes = paragraph + div
             const str = new RegExp(value, "gi")
             const count = tes.match(str)
+            writeToFile('tes', tes)
             count === null ? console.log(`Tidak ditemukan ${value} di ${item}`) :
                              console.log(`Domain ${item} mempunyai ${value}  sebanyak : ${count.length}`)
 
 
         }
     })
+}
+
+function writeToFile(url, data) {
+  filename = url + '.json'
+  fs.writeFile(filename, data, function(err) {
+    console.log(err)
+  })
 }
