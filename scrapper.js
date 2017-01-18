@@ -3,8 +3,6 @@ const cheerio = require('cheerio')
 const readline = require('readline')
 const fs = require('fs')
 
-const url = ['http://hariangadget.com', 'https://www.codepolitan.com']
-
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
