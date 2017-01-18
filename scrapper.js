@@ -1,16 +1,13 @@
 const request = require('request')
 const cheerio = require('cheerio')
 const readline = require('readline')
-const fs = require('fs')
+
+const urls = require('./url.json')
 
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 })
-
-const contents = fs.readFileSync('url.json')
-const urls = JSON.parse(contents)
-const link = urls.url
 
 const str = rl.question('Masukan keyword: ', function(key) {
     search(key)
@@ -18,7 +15,7 @@ const str = rl.question('Masukan keyword: ', function(key) {
 })
 
 function search(value) {
-    link.map(item =>  callUrl(item, value)
+    urls.url.map(item =>  callUrl(item, value)
 
     )
 }
@@ -34,6 +31,7 @@ function callUrl(item, value) {
             const tes = paragraph + div
             const str = new RegExp(value, "gi")
             const count = tes.match(str)
+
             count === null ? console.log(`Tidak ditemukan ${value} di ${item}`) :
                              console.log(`Domain ${item} mempunyai ${value}  sebanyak : ${count.length}`)
 
