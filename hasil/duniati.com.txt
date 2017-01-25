@@ -1,0 +1,737 @@
+Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya. Continue reading »(iPhone, iPad, iPod) Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya. Continue reading »Pengguna tema gratisan baru-baru ini pasti dapat pesan error “Unable to apply the theme. Please try downloading it again.” ketika menggunakan LINE dan kembali ke tema Original. Hal ini terjadi karena aplikasi LINE mengirimkan informasi tema yang baru saja di-apply ke server mereka untuk diverifikasi apakah sama atau tidak. Ini merupakan langkah awal dari pihak LINE untuk menghentikan penggunaan tema gratisan seperti yang kita nikmati saat ini. :vTapi untungnya ada solusi untuk tetap menggunakan tema gratisan, langkah-langkahnya masih sama, hanya ada sedikit langkah tambahan yang saya beri warna merah di bawah ini. Continue reading »Untuk pengguna iOS 8.3 keatas harus sudah Jailbreak dan ikuti tutorial di bawah ini.Untuk pengguna iOS 8.2 kebawah silahkan langsung ikuti “Tutorial Install Tema LINE di iOS.” Continue reading »Jika ingin mengembalikan ke semula, buka Theme Changer, tap menu di kanan atas dan pilih Reset Theme.
+Jika cara di atas tidak berhasil, silakan ikuti cara di bawah ini (pasti berhasil).LINE adalah sebuah aplikasi pengirim pesan instan gratis yang dapat digunakan pada berbagai platform seperti telepon cerdas, tablet, dan komputer. LINE difungsikan dengan menggunakan jaringan internet sehingga pengguna LINE dapat melakukan aktivitas seperti mengirim pesan teks, mengirim gambar, video, pesan suara, dan lain lain. LINE diklaim sebagai aplikasi pengirim pesan instan terlaris di 42 negara. Continue reading » Continue reading »LINE Corporation per hari ini merilis LINE Lite sebagai alternatif dari LINE versi standar yang “gendut”, langkah mirip seperti yang telah dilakukan oleh Facebook dengan merilis Facebook Lite. Dengan LINE Lite diharapkan pengguna yang menggunakan Android low-spec atau untuk pengguna yang berada di lokasi dengan infrastruktur jaringan yang tidak memadai dapat menggunakan LINE. Continue reading »Sticker adalah fitur andalan yang ditawarkan LINE, banyak pengguna messenger lain seperti BBM dan WhatsApp beralih ke LINE karena sticker-nya yang lucu dan dapat menggambarkan emosi kita lebih dari emoji. Sayangnya, banyak pengguna LINE di Indonesia yang kesulitan ketika membeli sesuatu di LINE baik itu sticker, tema ataupun diamond dan ruby pada LINE Games. Hal ini disebabkan oleh banyaknya orang Indonesia yang tidak memiliki kartu kredit (credit card), yang dibutuhkan saat membeli coins di Google Play Store atau App Store. Untuk mengatasi hal ini, LINE merilis website LINE Store. Continue reading » Continue reading »DuniaTI - Dunia seputar teknologi informasi dan komunikasi
+
+
+
+
+ 
+
+DuniaTI
+
+Dunia seputar teknologi informasi dan komunikasi
+ 
+ 
+ 
+
+
+
+ 
+
+DuniaTI
+
+Dunia seputar teknologi informasi dan komunikasi
+ 
+
+
+
+DuniaTI
+
+Dunia seputar teknologi informasi dan komunikasi
+
+Skip to content
+
+
+
+Home
+ 
+
+
+Home
+FREE Official LINE Theme
+FREE Unofficial LINE Theme
+Tutorial Download dari GWshare
+  
+ 
+ 
+
+
+
+Home
+ 
+
+
+Home
+FREE Official LINE Theme
+FREE Unofficial LINE Theme
+Tutorial Download dari GWshare
+  
+ 
+
+
+Home
+Home
+
+Home
+FREE Official LINE Theme
+FREE Unofficial LINE Theme
+Tutorial Download dari GWshare
+  
+
+Home
+FREE Official LINE Theme
+FREE Unofficial LINE Theme
+Tutorial Download dari GWshare
+ 
+
+
+
+ 
+
+
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			
+ 
+
+
+
+ 
+
+
+[Android] 229 Official LINE Theme Android Gratis – Bambi
+
+
+ 
+  
+
+Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya.
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[iOS] 169 Official LINE Theme iOS Gratis – Gudetama (Monotone)
+
+
+ 
+  
+
+(iPhone, iPad, iPod) Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya.
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+Cara atasi error “Unable to apply the theme.” (Update: iOS)
+
+
+ 87 Comments  
+  
+
+Pengguna tema gratisan baru-baru ini pasti dapat pesan error “Unable to apply the theme. Please try downloading it again.” ketika menggunakan LINE dan kembali ke tema Original. Hal ini terjadi karena aplikasi LINE mengirimkan informasi tema yang baru saja di-apply ke server mereka untuk diverifikasi apakah sama atau tidak. Ini merupakan langkah awal dari pihak LINE untuk menghentikan penggunaan tema gratisan seperti yang kita nikmati saat ini. :v
+Tapi untungnya ada solusi untuk tetap menggunakan tema gratisan, langkah-langkahnya masih sama, hanya ada sedikit langkah tambahan yang saya beri warna merah di bawah ini. Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[iOS] Cara Ganti/Pasang Tema LINE di iOS
+
+
+ 2 Comments  
+  
+
+Prasyarat
+
+iPhone xD
+Komputer (Windows/Mac)
+Kabel USB untuk iPhone
+Koneksi internet
+
+Untuk pengguna iOS 8.3 keatas harus sudah Jailbreak dan ikuti tutorial di bawah ini.
+Untuk pengguna iOS 8.2 kebawah silahkan langsung ikuti “Tutorial Install Tema LINE di iOS.” Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[Android] Cara Ganti/Pasang Tema LINE di Android
+
+
+ 50 Comments  
+  
+
+Tutorial Ganti/Pasang Tema LINE di Android
+
+Download tema yang diinginkan dari [Android] Official LINE Theme Android Gratis.
+Unduh (download) Theme Changer dari Play Store atau NodeFiles. (Update 25 Desember 2016)
+Unduh tema gratis official (Cony, Brown, White, Black) di LINE, misalnya kita pilih Cony (tema Cony jangan di-Apply dulu).
+Tutorial Download dari NodeFiles
+Buka Theme Changer, tap icon + di atas dan pilih file tema yang sudah diunduh.
+Pilih tema Cony untuk di-replace.
+Matikan koneksi internet (mobile data dan WiFi), mudahnya hidupkan Airplane Mode.
+Apply tema Cony.
+Hidupkan internet kembali.
+
+Tutorial Reset Tema LINE di Android
+Jika ingin mengembalikan ke semula, buka Theme Changer, tap menu di kanan atas dan pilih Reset Theme.
+
+Jika cara di atas tidak berhasil, silakan ikuti cara di bawah ini (pasti berhasil).
+
+Buka File Manager.
+Buka folder Android/data/jp.naver.line.android/theme.
+Hapus folder tema yang ingin di-reset.
+3cc08ba6-5d04-4c52-ab76-651231ead8ef (White)
+34afc5b4-f330-40bc-a2ea-fae94207847a (Black)
+a0768339-c2d3-4189-9653-2909e9bb6f58 (Cony)
+ec4a14ea-7437-407b-aee7-96b1cbbc1b4b (Brown)
+Kemudian buka LINE > More (…) > Settings > Themes > My Themes > Unduh ulang temanya.
+
+Video Tutorial
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+LINE 5.4.0
+
+
+ 5 Comments  
+  
+
+LINE adalah sebuah aplikasi pengirim pesan instan gratis yang dapat digunakan pada berbagai platform seperti telepon cerdas, tablet, dan komputer. LINE difungsikan dengan menggunakan jaringan internet sehingga pengguna LINE dapat melakukan aktivitas seperti mengirim pesan teks, mengirim gambar, video, pesan suara, dan lain lain. LINE diklaim sebagai aplikasi pengirim pesan instan terlaris di 42 negara.
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+Tutorial, Tips & Trik [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */ (LINEat)
+
+
+ 37 Comments  
+  
+
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[Android] LINE Lite 1.0.4
+
+
+ Comment  
+  
+
+LINE Corporation per hari ini merilis LINE Lite sebagai alternatif dari LINE versi standar yang “gendut”, langkah mirip seperti yang telah dilakukan oleh Facebook dengan merilis Facebook Lite. Dengan LINE Lite diharapkan pengguna yang menggunakan Android low-spec atau untuk pengguna yang berada di lokasi dengan infrastruktur jaringan yang tidak memadai dapat menggunakan LINE. Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+Beli Sticker, Theme, Diamond, Ruby, dll dari LINE Store pakai pulsa
+
+
+ 15 Comments  
+  
+
+Sticker adalah fitur andalan yang ditawarkan LINE, banyak pengguna messenger lain seperti BBM dan WhatsApp beralih ke LINE karena sticker-nya yang lucu dan dapat menggambarkan emosi kita lebih dari emoji. Sayangnya, banyak pengguna LINE di Indonesia yang kesulitan ketika membeli sesuatu di LINE baik itu sticker, tema ataupun diamond dan ruby pada LINE Games. Hal ini disebabkan oleh banyaknya orang Indonesia yang tidak memiliki kartu kredit (credit card), yang dibutuhkan saat membeli coins di Google Play Store atau App Store. Untuk mengatasi hal ini, LINE merilis website LINE Store. Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[Android] 9 Sticker Gratis BBM (Official)
+
+
+ 6 Comments  
+  
+
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+1
+2
+3
+4
+Next Page »
+
+ 
+
+ 
+
+
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			
+ 
+
+
+
+
+ 
+
+
+ 
+ 
+
+ 
+
+
+
+
+CategoriesCategories
+Select Category
+Download
+Giveaway
+Gratisan
+Internet
+Tips dan Trik
+Tutorial
+Uncategorized
+
+
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "https://duniati.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+
+  
+ 
+
+
+ 
+
+
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			
+ 
+
+
+
+ 
+
+
+[Android] 229 Official LINE Theme Android Gratis – Bambi
+
+
+ 
+  
+
+Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya.
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[iOS] 169 Official LINE Theme iOS Gratis – Gudetama (Monotone)
+
+
+ 
+  
+
+(iPhone, iPad, iPod) Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya.
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+Cara atasi error “Unable to apply the theme.” (Update: iOS)
+
+
+ 87 Comments  
+  
+
+Pengguna tema gratisan baru-baru ini pasti dapat pesan error “Unable to apply the theme. Please try downloading it again.” ketika menggunakan LINE dan kembali ke tema Original. Hal ini terjadi karena aplikasi LINE mengirimkan informasi tema yang baru saja di-apply ke server mereka untuk diverifikasi apakah sama atau tidak. Ini merupakan langkah awal dari pihak LINE untuk menghentikan penggunaan tema gratisan seperti yang kita nikmati saat ini. :v
+Tapi untungnya ada solusi untuk tetap menggunakan tema gratisan, langkah-langkahnya masih sama, hanya ada sedikit langkah tambahan yang saya beri warna merah di bawah ini. Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[iOS] Cara Ganti/Pasang Tema LINE di iOS
+
+
+ 2 Comments  
+  
+
+Prasyarat
+
+iPhone xD
+Komputer (Windows/Mac)
+Kabel USB untuk iPhone
+Koneksi internet
+
+Untuk pengguna iOS 8.3 keatas harus sudah Jailbreak dan ikuti tutorial di bawah ini.
+Untuk pengguna iOS 8.2 kebawah silahkan langsung ikuti “Tutorial Install Tema LINE di iOS.” Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[Android] Cara Ganti/Pasang Tema LINE di Android
+
+
+ 50 Comments  
+  
+
+Tutorial Ganti/Pasang Tema LINE di Android
+
+Download tema yang diinginkan dari [Android] Official LINE Theme Android Gratis.
+Unduh (download) Theme Changer dari Play Store atau NodeFiles. (Update 25 Desember 2016)
+Unduh tema gratis official (Cony, Brown, White, Black) di LINE, misalnya kita pilih Cony (tema Cony jangan di-Apply dulu).
+Tutorial Download dari NodeFiles
+Buka Theme Changer, tap icon + di atas dan pilih file tema yang sudah diunduh.
+Pilih tema Cony untuk di-replace.
+Matikan koneksi internet (mobile data dan WiFi), mudahnya hidupkan Airplane Mode.
+Apply tema Cony.
+Hidupkan internet kembali.
+
+Tutorial Reset Tema LINE di Android
+Jika ingin mengembalikan ke semula, buka Theme Changer, tap menu di kanan atas dan pilih Reset Theme.
+
+Jika cara di atas tidak berhasil, silakan ikuti cara di bawah ini (pasti berhasil).
+
+Buka File Manager.
+Buka folder Android/data/jp.naver.line.android/theme.
+Hapus folder tema yang ingin di-reset.
+3cc08ba6-5d04-4c52-ab76-651231ead8ef (White)
+34afc5b4-f330-40bc-a2ea-fae94207847a (Black)
+a0768339-c2d3-4189-9653-2909e9bb6f58 (Cony)
+ec4a14ea-7437-407b-aee7-96b1cbbc1b4b (Brown)
+Kemudian buka LINE > More (…) > Settings > Themes > My Themes > Unduh ulang temanya.
+
+Video Tutorial
+
+ 
+
+
+ 
+ 
+ 
+
+
+
+LINE 5.4.0
+
+
+ 5 Comments  
+  
+
+LINE adalah sebuah aplikasi pengirim pesan instan gratis yang dapat digunakan pada berbagai platform seperti telepon cerdas, tablet, dan komputer. LINE difungsikan dengan menggunakan jaringan internet sehingga pengguna LINE dapat melakukan aktivitas seperti mengirim pesan teks, mengirim gambar, video, pesan suara, dan lain lain. LINE diklaim sebagai aplikasi pengirim pesan instan terlaris di 42 negara.
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+Tutorial, Tips & Trik [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */ (LINEat)
+
+
+ 37 Comments  
+  
+
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[Android] LINE Lite 1.0.4
+
+
+ Comment  
+  
+
+LINE Corporation per hari ini merilis LINE Lite sebagai alternatif dari LINE versi standar yang “gendut”, langkah mirip seperti yang telah dilakukan oleh Facebook dengan merilis Facebook Lite. Dengan LINE Lite diharapkan pengguna yang menggunakan Android low-spec atau untuk pengguna yang berada di lokasi dengan infrastruktur jaringan yang tidak memadai dapat menggunakan LINE. Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+Beli Sticker, Theme, Diamond, Ruby, dll dari LINE Store pakai pulsa
+
+
+ 15 Comments  
+  
+
+Sticker adalah fitur andalan yang ditawarkan LINE, banyak pengguna messenger lain seperti BBM dan WhatsApp beralih ke LINE karena sticker-nya yang lucu dan dapat menggambarkan emosi kita lebih dari emoji. Sayangnya, banyak pengguna LINE di Indonesia yang kesulitan ketika membeli sesuatu di LINE baik itu sticker, tema ataupun diamond dan ruby pada LINE Games. Hal ini disebabkan oleh banyaknya orang Indonesia yang tidak memiliki kartu kredit (credit card), yang dibutuhkan saat membeli coins di Google Play Store atau App Store. Untuk mengatasi hal ini, LINE merilis website LINE Store. Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+
+
+[Android] 9 Sticker Gratis BBM (Official)
+
+
+ 6 Comments  
+  
+
+ Continue reading »
+ 
+
+
+ 
+ 
+ 
+
+1
+2
+3
+4
+Next Page »
+
+
+ 
+
+
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			
+
+
+
+
+
+
+Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya.
+ Continue reading »
+
+
+
+(iPhone, iPad, iPod) Salah satu fitur LINE adalah theme/tema, fitur ini dapat menghilangkan rasa bosan ketika sedang menggunakan LINE. Tapi sayangnya, sebagian besar tema yang ada di aplikasi LINE tidak gratis, atau dengan kata lain Anda harus merogoh kocek sebesar Rp 35.000 untuk satu tema. Nah, kali ini saya ingin membagikan tema-tema LINE gratis beserta tutorial untuk menggunakannya.
+ Continue reading »
+
+
+ 87 Comments 
+Pengguna tema gratisan baru-baru ini pasti dapat pesan error “Unable to apply the theme. Please try downloading it again.” ketika menggunakan LINE dan kembali ke tema Original. Hal ini terjadi karena aplikasi LINE mengirimkan informasi tema yang baru saja di-apply ke server mereka untuk diverifikasi apakah sama atau tidak. Ini merupakan langkah awal dari pihak LINE untuk menghentikan penggunaan tema gratisan seperti yang kita nikmati saat ini. :v
+Tapi untungnya ada solusi untuk tetap menggunakan tema gratisan, langkah-langkahnya masih sama, hanya ada sedikit langkah tambahan yang saya beri warna merah di bawah ini. Continue reading »
+
+
+ 2 Comments 
+Prasyarat
+
+iPhone xD
+Komputer (Windows/Mac)
+Kabel USB untuk iPhone
+Koneksi internet
+
+Untuk pengguna iOS 8.3 keatas harus sudah Jailbreak dan ikuti tutorial di bawah ini.
+Untuk pengguna iOS 8.2 kebawah silahkan langsung ikuti “Tutorial Install Tema LINE di iOS.” Continue reading »
+
+
+ 50 Comments 
+Tutorial Ganti/Pasang Tema LINE di Android
+
+Download tema yang diinginkan dari [Android] Official LINE Theme Android Gratis.
+Unduh (download) Theme Changer dari Play Store atau NodeFiles. (Update 25 Desember 2016)
+Unduh tema gratis official (Cony, Brown, White, Black) di LINE, misalnya kita pilih Cony (tema Cony jangan di-Apply dulu).
+Tutorial Download dari NodeFiles
+Buka Theme Changer, tap icon + di atas dan pilih file tema yang sudah diunduh.
+Pilih tema Cony untuk di-replace.
+Matikan koneksi internet (mobile data dan WiFi), mudahnya hidupkan Airplane Mode.
+Apply tema Cony.
+Hidupkan internet kembali.
+
+Tutorial Reset Tema LINE di Android
+Jika ingin mengembalikan ke semula, buka Theme Changer, tap menu di kanan atas dan pilih Reset Theme.
+
+Jika cara di atas tidak berhasil, silakan ikuti cara di bawah ini (pasti berhasil).
+
+Buka File Manager.
+Buka folder Android/data/jp.naver.line.android/theme.
+Hapus folder tema yang ingin di-reset.
+3cc08ba6-5d04-4c52-ab76-651231ead8ef (White)
+34afc5b4-f330-40bc-a2ea-fae94207847a (Black)
+a0768339-c2d3-4189-9653-2909e9bb6f58 (Cony)
+ec4a14ea-7437-407b-aee7-96b1cbbc1b4b (Brown)
+Kemudian buka LINE > More (…) > Settings > Themes > My Themes > Unduh ulang temanya.
+
+Video Tutorial
+
+
+
+ 5 Comments 
+LINE adalah sebuah aplikasi pengirim pesan instan gratis yang dapat digunakan pada berbagai platform seperti telepon cerdas, tablet, dan komputer. LINE difungsikan dengan menggunakan jaringan internet sehingga pengguna LINE dapat melakukan aktivitas seperti mengirim pesan teks, mengirim gambar, video, pesan suara, dan lain lain. LINE diklaim sebagai aplikasi pengirim pesan instan terlaris di 42 negara.
+ Continue reading »
+
+
+ 37 Comments 
+ Continue reading »
+
+
+ Comment 
+LINE Corporation per hari ini merilis LINE Lite sebagai alternatif dari LINE versi standar yang “gendut”, langkah mirip seperti yang telah dilakukan oleh Facebook dengan merilis Facebook Lite. Dengan LINE Lite diharapkan pengguna yang menggunakan Android low-spec atau untuk pengguna yang berada di lokasi dengan infrastruktur jaringan yang tidak memadai dapat menggunakan LINE. Continue reading »
+
+
+ 15 Comments 
+Sticker adalah fitur andalan yang ditawarkan LINE, banyak pengguna messenger lain seperti BBM dan WhatsApp beralih ke LINE karena sticker-nya yang lucu dan dapat menggambarkan emosi kita lebih dari emoji. Sayangnya, banyak pengguna LINE di Indonesia yang kesulitan ketika membeli sesuatu di LINE baik itu sticker, tema ataupun diamond dan ruby pada LINE Games. Hal ini disebabkan oleh banyaknya orang Indonesia yang tidak memiliki kartu kredit (credit card), yang dibutuhkan saat membeli coins di Google Play Store atau App Store. Untuk mengatasi hal ini, LINE merilis website LINE Store. Continue reading »
+
+
+ 6 Comments 
+ Continue reading »
+
+
+ 
+
+
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+ 
+
+
+
+
+CategoriesCategories
+Select Category
+Download
+Giveaway
+Gratisan
+Internet
+Tips dan Trik
+Tutorial
+Uncategorized
+
+
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "https://duniati.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINE@
+Instagram
+Facebook
+Twitter
+
+ 
+
+DuniaTI - Dunia seputar teknologi informasi dan komunikasi
+ 
+ 
+
+LINE@
+Instagram
+Facebook
+Twitter
+
+LINE@
+Instagram
+Facebook
+Twitter
+
+DuniaTI - Dunia seputar teknologi informasi dan komunikasi
+
+

@@ -1,0 +1,13774 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ <!--// <![CDATA[
+ OA_show('skinnerkiri'); 
+ // ]]> -->
+ 
+
+
+ 
+ <!--// <![CDATA[
+ OA_show('skinnerkanan'); 
+ // ]]> -->
+ 
+
+
+ 
+ <!--// <![CDATA[
+ OA_show('skinnerkiri'); 
+ // ]]> -->
+ 
+
+ <!--// <![CDATA[
+ OA_show('skinnerkiri'); 
+ // ]]> -->
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('skinnerkanan'); 
+ // ]]> -->
+ 
+
+ <!--// <![CDATA[
+ OA_show('skinnerkanan'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+  
+ 
+ <!--// <![CDATA[
+ OA_show('leaderboard'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ detikNews
+ 
+ 
+ detikFinance
+ 
+ 
+ detikHot
+ 
+ 
+ detiki-Net
+ 
+ 
+ detikSport
+ 
+ 
+ detikOto
+ 
+ 
+ detikTravel
+ 
+ 
+ detikFood
+ 
+ 
+ detikHealth
+ 
+ 
+ Wolipop
+ 
+ 
+ Indeks
+ 
+ 
+ 
+ 
+ 
+ 20DETIK · detikX · Hoax or Not · SolusiUKM · Most Popular · Sepakbola · Foto · Pasangmata · Pilkada DKI new 
+ <!--// <![CDATA[
+OA_show('navbar'); 
+// ]]> --> 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('bilboard'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Berita Utama
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Di Kenya, Istri Diserukan Boikot Seks agar Suami Daftar Pemilu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cetak 12,9 Miliar Bilyet Uang Kertas, Peruri Bidik Omzet Rp 4 Triliun
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pesan Korut ke Obama: Fokus Berkemas, Tak Usah Urusi HAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Jawab Rumor ke Liga Inggris, Messi: Saya di Barca Selama Klub Menginginkannya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ada Calon Sekretaris MA yang Bebaskan Mafia BBM Triliunan Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Uang Rupiah Asli Hanya Dicetak di Karawang
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pengusaha Korsel Diculik dan Dibunuh Polisi-polisi Filipina
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Rabu, 18 Jan 2017 19:22 WIB
+ 
+ 
+ PDIP: Sistem Pemilu Tertutup Cocok untuk Menghindari Korupsi 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ DetikNews
+ 
+ 
+ PDIP ingin sistem proporsional tertutup diberlakukan di Pemilu untuk menghindari korupsi. 
+ 
+ Berita Terkait
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ 
+ 
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PDIP Ingin Lebih Rendah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright1'); 
+ // ]]> -->
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright2'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*S:PILKADA 2016-17*/
+.pkd16{
+ background: url(https://cdn.detik.net.id/detik2/images/pilkadadki/bg_pkd16_2.png) #fff bottom left no-repeat;
+ border-top: solid 2px #FF8200;
+ border-bottom: solid 4px #FF8200;
+ padding: 0px 0 0px 0px;
+}
+.pkd16 li{
+ border:none;
+}
+.logo_pkd{
+ width:100%;
+ display:block;
+ text-align: center;
+ border-bottom: solid 2px #FF8200;
+ padding-bottom: 10px;
+ margin-bottom: 10px;
+ padding-top: 3px;
+ background: #FF8200;
+}
+.logo_pkd img{ 
+ width:200px;
+}
+.pkd16 .desc_nhl {
+ color: #6f6f6f;
+ height: 75px;
+ overflow: hidden;
+}
+.pkd16 .desc_nhl h2 {
+ color: #000;
+}
+.pkd16 li:hover .desc_nhl h2{
+ color:#ff7f00;
+}
+.pkd16 .list_feed li .box_img{ width:80px !important; }
+.pkd16 .list_feed .desc_nhl {width:415px;}
+.pkd16 .title_lr {
+ background-color:#FF8200;
+ padding: 5px 0 10px;
+ border-bottom: solid 2px #FF8200;
+ text-align: center;
+}
+.pkd16 .title_lr img{
+ width:180px;
+}
+.pkd16 .title_lr a{
+ float:none;
+ margin: 0;
+}
+.pkd16 .title_lr a:hover{opacity:1;}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+.pkd16 .list_feed .desc_nhl {width:320px;}
+}
+/*E:PILKADA 2016-17*/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ Rabu, 18 Jan 2017 19:11 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ Rabu, 18 Jan 2017 18:52 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agus Yudhoyono: Law Enforcement Harus Tegas untuk Cegah Narkoba
+ Rabu, 18 Jan 2017 18:33 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Lifestyle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+  Rabu, 18/01/2017 19:27 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright3'); 
+ // ]]> -->
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright4'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ detik forum +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Dosen UI Sebut Presiden Sebarkan Hoax dengan Komentarnya untuk 'Jokowi Undercover' Rabu, 18/01/2017 09:21 030140
+ Posted By : tso-s4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Penting! Live Chat 'Kenali Gejala Stroke' Rabu, 11/01/2017 15:29 020395
+ Posted By : quizmaster
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Blogdetik +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright5'); 
+ // ]]> -->
+ 
+ 
+ 
+  
+ Foto +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 8 WN India Sindikat Pemalsu Visa Digulung
+ 
+ Foto | Rabu, 18/01/2017 19:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Perajin Dupa Tingkatkan Produksi
+ 
+ Foto | Rabu, 18/01/2017 18:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Produksi Lilin Jelang Imlek Meningkat Tajam
+ 
+ Foto | Rabu, 18/01/2017 17:47 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Permintaan Dodol & Kue Ranjang Meningkat
+ 
+ Foto | Rabu, 18/01/2017 17:06 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Video +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Semua Spesial di Java Jazz Festival 2017
+ 
+ 00:58 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Ini Musisi Internasional yang Akan Manggung di Java Jazz 2017
+ 
+ 00:52 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ 
+ 04:42 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft1'); 
+ // ]]> -->
+ 
+ 
+ 
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Sri Mulyani: Tarif STNK Dikerek Sesuai Koordinasi
+  Rabu, 18/01/2017 19:31 WIB
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kontrak ONWJ Diteken Jadi Pionir Skema Gross Split 
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Akan Temui Sumarsono Bahas Sumbangan Proyek Reklamasi
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Irfan Bachdim Rindu Teriakan Suporter di Indonesia
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+  +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ Antrean Panjang dari Pringsurat Mengarah Ambarawa
+  Rabu, 18/01/2017 19:21 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Dari Ketinggian Tampak Lalin Tanah Abang 4 Padat Arah Cideng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Macet, Lalin di Tol JORR Menuju Bekasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Merayap, Lalin di Guntur Menuju Terminal Manggarai
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft2'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft3'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ Suara Pembaca
+ +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tanggapan Biznet untuk Surat Pembaca Ibu Finny Selasa 17 2017, 15:55 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Beli Mobil Eks Bluebird, Alamat di BPKB dan STNK Berbeda Selasa 17 2017, 14:46 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mengapa Pajak Kendaraan Bermotor Saya Naik? Selasa 17 2017, 14:31 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News Feed
+ 
+  9 Berita Terbaru
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+ 
+  
+ <!--// <![CDATA[
+ OA_show('promoboxcenter'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+ detikTravel | Rabu, 18 Jan 2017 19:35 WIB
+ Neptune Memorial Reef, suatu pemakaman yang tidak biasa di dunia. Untuk datang ke sana, kita harus menyelam. Pemakaman ini adanya di bawah laut! 
+ 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('newsfeed1'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Freeport Harus Lepas 51% Saham ke Pemerintah, Tak Ada Pengecualian
+ detikFinance | Rabu, 18 Jan 2017 19:32 WIB
+ Pemerintah lewat Kementerian Energi dan Sumber Daya Mineral, menyatakan PT Freeport Indonesia harus mendivestasikan hingga 51% sahamnya dalam kontrak baru. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('advertorial1_2'); 
+ // ]]> --> 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Terima Pengembalian Uang Rp 2,5 M Terkait Kasus Pupuk
+ detikNews | Rabu, 18 Jan 2017 19:31 WIB
+ KPK menyatakan telah menerima pengembalian uang Rp 2,5 miliar terkait kasus dugaan korupsi pupuk di Perum Perhutani. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 Gerai Baru Transmart Buka Tahun Ini, 15 di Indonesia Timur
+ detikFinance | Rabu, 18 Jan 2017 19:28 WIB
+ PT Trans Retail Indonesia akan membuka 30 gerai baru Transmart tahun ini. Sebanyak 15 gerai berada di Indonesia Timur. 
+ 
+ 
+ 
+
+
+ <!--// <![CDATA[
+ OA_show('centerads1'); 
+ // ]]> -->
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470816207575-0'); });
+
+
+
+ 
+ 
+ 
+ Mendagri Minta Polisi Usut Foto Bendera RI Bertuliskan Arab
+ detikNews | Rabu 18 2017, 19:10 WIB
+ Menurut Tjahjo tidak boleh ada yang menghina lambang negara. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+<!--// <![CDATA[
+ OA_show('newsfeed2'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea
+ Wolipop | Rabu, 18 Jan 2017 19:27 WIB
+ Tengok saja beberapa lipstik yang jadi laris setelah diaplikasikan Jun Ji Hyun hingga Park Shin Hye dalam drama baru-baru ini. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ George HW Bush Dirawat di Rumah Sakit karena Gangguan Pernapasan
+ detikNews | Rabu, 18 Jan 2017 19:25 WIB
+ Mantan Presiden AS George HW Bush dirawat di rumah sakit karena mengalami gangguan pernapasan. Kini, Bush senior tengah menjalani pemulihan di rumah sakit. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('carousell'); 
+ // ]]> --> 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMW Segarkan Seri 4
+ detikOto | Rabu, 18 Jan 2017 19:22 WIB
+ Seri 4 menjadi salah satu model andalan BMW yang penjualannya hampir 400.000 unit di seluruh dunia dari 2013 sampai akhir 2016. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bos Go-Jek Buka-bukaan Rencana 2017
+ detikInet | Rabu, 18 Jan 2017 19:20 WIB
+ Sejumlah produk baru dilahirkan Go-Jek tahun lalu. Tapi 2017 ini, layanan ridesharing ini juga punya rencana lain. Simak bocorannya di sini. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('newsfeed3'); 
+ // ]]> -->
+
+
+ <!--// <![CDATA[
+ OA_show('centerads2'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 'Jakarta Undercover' Menyibak Gelapnya Dunia Jakarta
+ detikHot | Rabu, 18 Jan 2017 19:20 WIB
+ Grafent Pictures dan Demi Istri Production mempersembahkan seri kedua 'Jakarta Undercover: Refleksi Cinta, Pesta, dan Realita'. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ detikNews | Rabu 18 2017, 17:25 WIB
+ Menjelang waktu makan siang pengunjung ramai berdatangan di Warung Makan Lapo Boru Siagian. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selamat Ulang Tahun, Guardiola, Semoga (Cepat) Bahagia di City
+ Sepakbola | Rabu, 18 Jan 2017 19:18 WIB
+ Pep Gurdiola genap berusia 46 tahun pada hari ini, Selasa (18/1/2017). Namun di hari lahirnya ini Guardiola tidak dalam suasana hati yang baik. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2)
+ detikFood | Rabu, 18 Jan 2017 19:16 WIB
+ Selulit membuat penampilan tak menarik. Rajin makan telur dan brokoli dapat bantu cegah pembentukan selulit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sumarsono Kritik Desain MRT, Ahok: Sudah Kontrak dengan Jepang
+ detikNews | Rabu, 18 Jan 2017 19:14 WIB
+ Plt Gubernur DKI Sumarsono menyebut desain kepala MRT mirip jangkrik. Ahok lalu menegaskan, hal itu sudah ada kontrak dengan Jepang. 
+ 
+ 
+ 
+
+
+ <!--// <![CDATA[
+ OA_show('centerads3');
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Australia Terbuka
+ Murray Menang Tiga Set Langsung atas Petenis Muda Rusia
+ detikSport | Rabu, 18 Jan 2017 19:13 WIB
+ Andy Murray masih terlalu tangguh untuk Andrey Rublev. Menghadapi petenis 19 tahun asal Rusia itu, Murray hanya kehilangan lima gim untuk lolos ke babak ketiga. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ detikNews | Rabu, 18 Jan 2017 19:11 WIB
+ Agus Yudhoyono meminta pedagang tidak perlu khawatir. Ia berjanji akan mengakomodasi keinginan pengrajin itu. 
+ 
+ 
+ 
+
+ 
+ 
+ Facebook Dituduh Mencuri Teknologi Virtual Reality
+ CNN Indonesia | Rabu 18 Januari, 16:55 WIB
+ CEO Facebook Mark Zuckerberg harus menghadapi tuntutan hukum terkait dengan hak cipta perangkat virtual reality (VR) Oculus miliknya.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hot Photo
+ Jika Duo Serigala Jadi Sekuriti, Kira-kira Apa yang Dijagain Ya?
+ detikHot | Rabu, 18 Jan 2017 19:10 WIB
+ Duo Serigala tampil dengan kostum sekuriti di acara film terbaru mereka bertajuk 'Security Ugal-ugalan'. Merekapun tetap terlihat seksi dengan kostum itu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ada Isu Banyak SPBU Tak Lagi Jual Premium, Ini Kata Pertamina
+ detikFinance | Rabu, 18 Jan 2017 19:10 WIB
+ Dari 5.300 SPBU di seluruh Indonesia, BBM jenis premium masih dijual di 4.500 SPBU alias 85% SPBU. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku
+ detikTravel | Rabu, 18 Jan 2017 19:10 WIB
+ Biasanya tempat bermain ice skating ada di mal. Di Estonia, Anda bisa menjajal ice skating di atas penjara beku! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya?
+ detikHealth | Rabu, 18 Jan 2017 19:07 WIB
+ Untuk 'membangunkan' janin yang tertidur saat dilakukan USG 4D, perut ibu hamil seringkali tampak digoyang-goyang. Adakah pengaruhnya bagi psikis janin? 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ detikNews | Rabu, 18 Jan 2017 19:06 WIB
+ Normalisasi sungai menjadi agenda prioritas pemerintah dalam mencegah banjir bandang di Bima, Nusa Tenggara Barat (NTB) berkelanjutan. Apa upaya pemerintah? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gempa 5,2 SR Guncang Lebak, Tidak Berpotensi Tsunami
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Gempa bumi berkekuatan 5,2 Skala Richter (SR) mengguncang Lebak, Banten. Gempa yang terjadi pukul 17.51 WIB tersebut tidak berpotensi tsunami. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satiri Ingin Sumur Keramat di Beji Diakui Sebagai Cagar Budaya
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Salah satu warga yang turut melestarikan Sumur 7 Beji, Zulkarnaen (53) merasa miris dengan sikap Pemerintah yang dinilai tidak menghargai situs sejarah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mengintip Proses Cetak Uang Rupiah
+ detikFinance | Rabu, 18 Jan 2017 19:02 WIB
+ Banyak masyarakat yang belum tahu bagaimana proses pembuatan uang yang selama ini dijadikan sebagai alat transaksi ekonomi. Yuk, cari tahu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Karius Sebut Skuat Liverpool ke Piala FA Tak Sekadar Muda Usia
+ Sepakbola | Rabu, 18 Jan 2017 19:00 WIB
+ Loris Karius sepakat dengan keputusan Juergen Klopp untuk menurunkan pemain muda, sebab mereka punya kualitas yang mumpuni. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ detikFinance | Rabu, 18 Jan 2017 18:59 WIB
+ Anak perusahaan PLN, Indonesia Power, meluncurkan program untuk meningkatkan kualitas tenaga operasi dan pemeliharaan yang bersaing dengan tenaga kerja asing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ahli Hukum: Anak Bantu Jualan Cobek, Tajudin Tak Lakukan Eksploitasi
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ Ahli hukum pidana Prof Mudzakir berpendapat bila hal itu diteruskan tidak akan terhitung orang miskin masuk penjara. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RUU Penyelenggaraan Pemilu
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ PPP menyebut usulan ambang batas parlemen 10% dari Golkar merupakan sikap arogan. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu 18 2017, 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ detikNews | Rabu, 18 Jan 2017 18:54 WIB
+ Pidato para menteri dibatasi hanya 7 menit saja. Johan Budi menilai batasan waktu ini terinspirasi dari kultum, kuliah tujuh menit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cegah Banjir di Bima, Kemen PUPR Berencana Bangun 2 Waduk Baru
+ detikNews | Rabu, 18 Jan 2017 18:53 WIB
+ Di Bima sendiri sudah ada waduk, namun lokasinya yang jauh tak mampu berfungsi menampung debit air sungai yang melimpah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Buat yang penasaran, yuk kenalan sama Mas Jumadi. Pria yang jadi tukang cukur Jokowi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Menurut Ahok, dengan adanya prediksi dari LSI Denny JA, maka hal harus menjadi pemacu bagi tim suksesnya untuk bekerja lebih keras lagi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kapolri ke Praja IPDN: Kebhinnekaan Merupakan Kekayaan dan Ancaman
+ detikNews | Rabu, 18 Jan 2017 18:51 WIB
+ Kapolri Jenderal Tito Karnavian bicara soal kebhinnekaan dan demokrasi di era globalisasi di depan praja IPDN. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Hanya 30 Detik, Kebiasaan Para Wanita Sukses Ini Patut Anda Ikuti
+ Wolipop | Rabu 18 2017, 18:41 WIB
+ Beberapa wanita sukses di dunia berbagi kebiasaan yang sama. Salah satunya adalah minum air putih setelah bangun pagi. Apa manfaatnya? 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu, 18 Jan 2017 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1)
+ detikFood | Rabu, 18 Jan 2017 18:48 WIB
+ Selulit merupakan lemak yang bergumpal kecil di bawah kulit dan sering disebut 'kulit jeruk'. Selulit seringkali tampak di paha, bokong, dan perut bagian bawah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pengusaha China Buka-bukaan Soal Tenaga Kerja Asing di RI
+ detikFinance | Rabu, 18 Jan 2017 18:47 WIB
+ Beberapa waktu lalu muncul isu TKA yang datang berbondong-bondong ke RI. Di sejumlah daerah, pemerintah banyak menemukan TKA dari China yang terbukti ilegal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pelaku Penembakan Kelab Malam Turki Akui Diperintah ISIS
+ detikNews | Rabu, 18 Jan 2017 18:45 WIB
+ Pelaku penembakan di kelab malam Turki mengaku mendapat perintah langsung dari ISIS. Pelaku juga harus mengubah target serangan di menit-menit terakhir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costa dan Conte Dikabarkan Sudah Akur Lagi
+ Sepakbola | Rabu, 18 Jan 2017 18:43 WIB
+ Perselisihan Diego Costa dan Antonio Conte sudah selesai. Mereka dikabarkan sudah damai dan berjanji memberi yang terbaik untuk Chelsea. 
+ 
+ 
+ 
+ 
+ 
+ Loading More News
+ 
+ 
+ More News
+ 
+ 
+ 
+ 
+ var LASTDATE = new Date('2017/01/18 18:43:18');
+ var STRLASTDATE = '2017/01/18 18:43:18';
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright @ 2016 detikcom, All right reserved
+ Redaksi ·
+ Pedoman Media Siber ·
+ Karir ·
+ Kotak Pos ·
+ 
+ Privacy Policy ·
+ Disclaimer
+ 
+ 
+ 
+ 
+
+ 
+ 
+  
+ 
+ <!--// <![CDATA[
+ OA_show('leaderboard'); 
+ // ]]> -->
+ 
+ <!--// <![CDATA[
+ OA_show('leaderboard'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ detikNews
+ 
+ 
+ detikFinance
+ 
+ 
+ detikHot
+ 
+ 
+ detiki-Net
+ 
+ 
+ detikSport
+ 
+ 
+ detikOto
+ 
+ 
+ detikTravel
+ 
+ 
+ detikFood
+ 
+ 
+ detikHealth
+ 
+ 
+ Wolipop
+ 
+ 
+ Indeks
+ 
+ 
+ 
+ 
+ 
+ 20DETIK · detikX · Hoax or Not · SolusiUKM · Most Popular · Sepakbola · Foto · Pasangmata · Pilkada DKI new 
+ <!--// <![CDATA[
+OA_show('navbar'); 
+// ]]> --> 
+ 
+ 
+ 
+ detikNews
+ 
+ 
+ detikFinance
+ 
+ 
+ detikHot
+ 
+ 
+ detiki-Net
+ 
+ 
+ detikSport
+ 
+ 
+ detikOto
+ 
+ 
+ detikTravel
+ 
+ 
+ detikFood
+ 
+ 
+ detikHealth
+ 
+ 
+ Wolipop
+ 
+ 
+ Indeks
+ 
+ 
+ 
+ 
+ 20DETIK · detikX · Hoax or Not · SolusiUKM · Most Popular · Sepakbola · Foto · Pasangmata · Pilkada DKI new 
+ <!--// <![CDATA[
+OA_show('navbar'); 
+// ]]> --> 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('bilboard'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ <!--// <![CDATA[
+ OA_show('bilboard'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Berita Utama
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Di Kenya, Istri Diserukan Boikot Seks agar Suami Daftar Pemilu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cetak 12,9 Miliar Bilyet Uang Kertas, Peruri Bidik Omzet Rp 4 Triliun
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pesan Korut ke Obama: Fokus Berkemas, Tak Usah Urusi HAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Jawab Rumor ke Liga Inggris, Messi: Saya di Barca Selama Klub Menginginkannya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ada Calon Sekretaris MA yang Bebaskan Mafia BBM Triliunan Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Uang Rupiah Asli Hanya Dicetak di Karawang
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pengusaha Korsel Diculik dan Dibunuh Polisi-polisi Filipina
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Rabu, 18 Jan 2017 19:22 WIB
+ 
+ 
+ PDIP: Sistem Pemilu Tertutup Cocok untuk Menghindari Korupsi 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ DetikNews
+ 
+ 
+ PDIP ingin sistem proporsional tertutup diberlakukan di Pemilu untuk menghindari korupsi. 
+ 
+ Berita Terkait
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ 
+ 
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PDIP Ingin Lebih Rendah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright1'); 
+ // ]]> -->
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright2'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*S:PILKADA 2016-17*/
+.pkd16{
+ background: url(https://cdn.detik.net.id/detik2/images/pilkadadki/bg_pkd16_2.png) #fff bottom left no-repeat;
+ border-top: solid 2px #FF8200;
+ border-bottom: solid 4px #FF8200;
+ padding: 0px 0 0px 0px;
+}
+.pkd16 li{
+ border:none;
+}
+.logo_pkd{
+ width:100%;
+ display:block;
+ text-align: center;
+ border-bottom: solid 2px #FF8200;
+ padding-bottom: 10px;
+ margin-bottom: 10px;
+ padding-top: 3px;
+ background: #FF8200;
+}
+.logo_pkd img{ 
+ width:200px;
+}
+.pkd16 .desc_nhl {
+ color: #6f6f6f;
+ height: 75px;
+ overflow: hidden;
+}
+.pkd16 .desc_nhl h2 {
+ color: #000;
+}
+.pkd16 li:hover .desc_nhl h2{
+ color:#ff7f00;
+}
+.pkd16 .list_feed li .box_img{ width:80px !important; }
+.pkd16 .list_feed .desc_nhl {width:415px;}
+.pkd16 .title_lr {
+ background-color:#FF8200;
+ padding: 5px 0 10px;
+ border-bottom: solid 2px #FF8200;
+ text-align: center;
+}
+.pkd16 .title_lr img{
+ width:180px;
+}
+.pkd16 .title_lr a{
+ float:none;
+ margin: 0;
+}
+.pkd16 .title_lr a:hover{opacity:1;}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+.pkd16 .list_feed .desc_nhl {width:320px;}
+}
+/*E:PILKADA 2016-17*/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ Rabu, 18 Jan 2017 19:11 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ Rabu, 18 Jan 2017 18:52 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agus Yudhoyono: Law Enforcement Harus Tegas untuk Cegah Narkoba
+ Rabu, 18 Jan 2017 18:33 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Lifestyle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+  Rabu, 18/01/2017 19:27 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright3'); 
+ // ]]> -->
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright4'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ detik forum +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Dosen UI Sebut Presiden Sebarkan Hoax dengan Komentarnya untuk 'Jokowi Undercover' Rabu, 18/01/2017 09:21 030140
+ Posted By : tso-s4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Penting! Live Chat 'Kenali Gejala Stroke' Rabu, 11/01/2017 15:29 020395
+ Posted By : quizmaster
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Blogdetik +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright5'); 
+ // ]]> -->
+ 
+ 
+ 
+  
+ Foto +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 8 WN India Sindikat Pemalsu Visa Digulung
+ 
+ Foto | Rabu, 18/01/2017 19:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Perajin Dupa Tingkatkan Produksi
+ 
+ Foto | Rabu, 18/01/2017 18:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Produksi Lilin Jelang Imlek Meningkat Tajam
+ 
+ Foto | Rabu, 18/01/2017 17:47 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Permintaan Dodol & Kue Ranjang Meningkat
+ 
+ Foto | Rabu, 18/01/2017 17:06 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Video +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Semua Spesial di Java Jazz Festival 2017
+ 
+ 00:58 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Ini Musisi Internasional yang Akan Manggung di Java Jazz 2017
+ 
+ 00:52 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ 
+ 04:42 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft1'); 
+ // ]]> -->
+ 
+ 
+ 
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Sri Mulyani: Tarif STNK Dikerek Sesuai Koordinasi
+  Rabu, 18/01/2017 19:31 WIB
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kontrak ONWJ Diteken Jadi Pionir Skema Gross Split 
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Akan Temui Sumarsono Bahas Sumbangan Proyek Reklamasi
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Irfan Bachdim Rindu Teriakan Suporter di Indonesia
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+  +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ Antrean Panjang dari Pringsurat Mengarah Ambarawa
+  Rabu, 18/01/2017 19:21 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Dari Ketinggian Tampak Lalin Tanah Abang 4 Padat Arah Cideng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Macet, Lalin di Tol JORR Menuju Bekasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Merayap, Lalin di Guntur Menuju Terminal Manggarai
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft2'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft3'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ Suara Pembaca
+ +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tanggapan Biznet untuk Surat Pembaca Ibu Finny Selasa 17 2017, 15:55 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Beli Mobil Eks Bluebird, Alamat di BPKB dan STNK Berbeda Selasa 17 2017, 14:46 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mengapa Pajak Kendaraan Bermotor Saya Naik? Selasa 17 2017, 14:31 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News Feed
+ 
+  9 Berita Terbaru
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+ 
+  
+ <!--// <![CDATA[
+ OA_show('promoboxcenter'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+ detikTravel | Rabu, 18 Jan 2017 19:35 WIB
+ Neptune Memorial Reef, suatu pemakaman yang tidak biasa di dunia. Untuk datang ke sana, kita harus menyelam. Pemakaman ini adanya di bawah laut! 
+ 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('newsfeed1'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Freeport Harus Lepas 51% Saham ke Pemerintah, Tak Ada Pengecualian
+ detikFinance | Rabu, 18 Jan 2017 19:32 WIB
+ Pemerintah lewat Kementerian Energi dan Sumber Daya Mineral, menyatakan PT Freeport Indonesia harus mendivestasikan hingga 51% sahamnya dalam kontrak baru. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('advertorial1_2'); 
+ // ]]> --> 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Terima Pengembalian Uang Rp 2,5 M Terkait Kasus Pupuk
+ detikNews | Rabu, 18 Jan 2017 19:31 WIB
+ KPK menyatakan telah menerima pengembalian uang Rp 2,5 miliar terkait kasus dugaan korupsi pupuk di Perum Perhutani. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 Gerai Baru Transmart Buka Tahun Ini, 15 di Indonesia Timur
+ detikFinance | Rabu, 18 Jan 2017 19:28 WIB
+ PT Trans Retail Indonesia akan membuka 30 gerai baru Transmart tahun ini. Sebanyak 15 gerai berada di Indonesia Timur. 
+ 
+ 
+ 
+
+
+ <!--// <![CDATA[
+ OA_show('centerads1'); 
+ // ]]> -->
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470816207575-0'); });
+
+
+
+ 
+ 
+ 
+ Mendagri Minta Polisi Usut Foto Bendera RI Bertuliskan Arab
+ detikNews | Rabu 18 2017, 19:10 WIB
+ Menurut Tjahjo tidak boleh ada yang menghina lambang negara. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+<!--// <![CDATA[
+ OA_show('newsfeed2'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea
+ Wolipop | Rabu, 18 Jan 2017 19:27 WIB
+ Tengok saja beberapa lipstik yang jadi laris setelah diaplikasikan Jun Ji Hyun hingga Park Shin Hye dalam drama baru-baru ini. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ George HW Bush Dirawat di Rumah Sakit karena Gangguan Pernapasan
+ detikNews | Rabu, 18 Jan 2017 19:25 WIB
+ Mantan Presiden AS George HW Bush dirawat di rumah sakit karena mengalami gangguan pernapasan. Kini, Bush senior tengah menjalani pemulihan di rumah sakit. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('carousell'); 
+ // ]]> --> 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMW Segarkan Seri 4
+ detikOto | Rabu, 18 Jan 2017 19:22 WIB
+ Seri 4 menjadi salah satu model andalan BMW yang penjualannya hampir 400.000 unit di seluruh dunia dari 2013 sampai akhir 2016. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bos Go-Jek Buka-bukaan Rencana 2017
+ detikInet | Rabu, 18 Jan 2017 19:20 WIB
+ Sejumlah produk baru dilahirkan Go-Jek tahun lalu. Tapi 2017 ini, layanan ridesharing ini juga punya rencana lain. Simak bocorannya di sini. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('newsfeed3'); 
+ // ]]> -->
+
+
+ <!--// <![CDATA[
+ OA_show('centerads2'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 'Jakarta Undercover' Menyibak Gelapnya Dunia Jakarta
+ detikHot | Rabu, 18 Jan 2017 19:20 WIB
+ Grafent Pictures dan Demi Istri Production mempersembahkan seri kedua 'Jakarta Undercover: Refleksi Cinta, Pesta, dan Realita'. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ detikNews | Rabu 18 2017, 17:25 WIB
+ Menjelang waktu makan siang pengunjung ramai berdatangan di Warung Makan Lapo Boru Siagian. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selamat Ulang Tahun, Guardiola, Semoga (Cepat) Bahagia di City
+ Sepakbola | Rabu, 18 Jan 2017 19:18 WIB
+ Pep Gurdiola genap berusia 46 tahun pada hari ini, Selasa (18/1/2017). Namun di hari lahirnya ini Guardiola tidak dalam suasana hati yang baik. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2)
+ detikFood | Rabu, 18 Jan 2017 19:16 WIB
+ Selulit membuat penampilan tak menarik. Rajin makan telur dan brokoli dapat bantu cegah pembentukan selulit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sumarsono Kritik Desain MRT, Ahok: Sudah Kontrak dengan Jepang
+ detikNews | Rabu, 18 Jan 2017 19:14 WIB
+ Plt Gubernur DKI Sumarsono menyebut desain kepala MRT mirip jangkrik. Ahok lalu menegaskan, hal itu sudah ada kontrak dengan Jepang. 
+ 
+ 
+ 
+
+
+ <!--// <![CDATA[
+ OA_show('centerads3');
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Australia Terbuka
+ Murray Menang Tiga Set Langsung atas Petenis Muda Rusia
+ detikSport | Rabu, 18 Jan 2017 19:13 WIB
+ Andy Murray masih terlalu tangguh untuk Andrey Rublev. Menghadapi petenis 19 tahun asal Rusia itu, Murray hanya kehilangan lima gim untuk lolos ke babak ketiga. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ detikNews | Rabu, 18 Jan 2017 19:11 WIB
+ Agus Yudhoyono meminta pedagang tidak perlu khawatir. Ia berjanji akan mengakomodasi keinginan pengrajin itu. 
+ 
+ 
+ 
+
+ 
+ 
+ Facebook Dituduh Mencuri Teknologi Virtual Reality
+ CNN Indonesia | Rabu 18 Januari, 16:55 WIB
+ CEO Facebook Mark Zuckerberg harus menghadapi tuntutan hukum terkait dengan hak cipta perangkat virtual reality (VR) Oculus miliknya.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hot Photo
+ Jika Duo Serigala Jadi Sekuriti, Kira-kira Apa yang Dijagain Ya?
+ detikHot | Rabu, 18 Jan 2017 19:10 WIB
+ Duo Serigala tampil dengan kostum sekuriti di acara film terbaru mereka bertajuk 'Security Ugal-ugalan'. Merekapun tetap terlihat seksi dengan kostum itu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ada Isu Banyak SPBU Tak Lagi Jual Premium, Ini Kata Pertamina
+ detikFinance | Rabu, 18 Jan 2017 19:10 WIB
+ Dari 5.300 SPBU di seluruh Indonesia, BBM jenis premium masih dijual di 4.500 SPBU alias 85% SPBU. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku
+ detikTravel | Rabu, 18 Jan 2017 19:10 WIB
+ Biasanya tempat bermain ice skating ada di mal. Di Estonia, Anda bisa menjajal ice skating di atas penjara beku! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya?
+ detikHealth | Rabu, 18 Jan 2017 19:07 WIB
+ Untuk 'membangunkan' janin yang tertidur saat dilakukan USG 4D, perut ibu hamil seringkali tampak digoyang-goyang. Adakah pengaruhnya bagi psikis janin? 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ detikNews | Rabu, 18 Jan 2017 19:06 WIB
+ Normalisasi sungai menjadi agenda prioritas pemerintah dalam mencegah banjir bandang di Bima, Nusa Tenggara Barat (NTB) berkelanjutan. Apa upaya pemerintah? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gempa 5,2 SR Guncang Lebak, Tidak Berpotensi Tsunami
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Gempa bumi berkekuatan 5,2 Skala Richter (SR) mengguncang Lebak, Banten. Gempa yang terjadi pukul 17.51 WIB tersebut tidak berpotensi tsunami. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satiri Ingin Sumur Keramat di Beji Diakui Sebagai Cagar Budaya
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Salah satu warga yang turut melestarikan Sumur 7 Beji, Zulkarnaen (53) merasa miris dengan sikap Pemerintah yang dinilai tidak menghargai situs sejarah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mengintip Proses Cetak Uang Rupiah
+ detikFinance | Rabu, 18 Jan 2017 19:02 WIB
+ Banyak masyarakat yang belum tahu bagaimana proses pembuatan uang yang selama ini dijadikan sebagai alat transaksi ekonomi. Yuk, cari tahu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Karius Sebut Skuat Liverpool ke Piala FA Tak Sekadar Muda Usia
+ Sepakbola | Rabu, 18 Jan 2017 19:00 WIB
+ Loris Karius sepakat dengan keputusan Juergen Klopp untuk menurunkan pemain muda, sebab mereka punya kualitas yang mumpuni. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ detikFinance | Rabu, 18 Jan 2017 18:59 WIB
+ Anak perusahaan PLN, Indonesia Power, meluncurkan program untuk meningkatkan kualitas tenaga operasi dan pemeliharaan yang bersaing dengan tenaga kerja asing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ahli Hukum: Anak Bantu Jualan Cobek, Tajudin Tak Lakukan Eksploitasi
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ Ahli hukum pidana Prof Mudzakir berpendapat bila hal itu diteruskan tidak akan terhitung orang miskin masuk penjara. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RUU Penyelenggaraan Pemilu
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ PPP menyebut usulan ambang batas parlemen 10% dari Golkar merupakan sikap arogan. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu 18 2017, 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ detikNews | Rabu, 18 Jan 2017 18:54 WIB
+ Pidato para menteri dibatasi hanya 7 menit saja. Johan Budi menilai batasan waktu ini terinspirasi dari kultum, kuliah tujuh menit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cegah Banjir di Bima, Kemen PUPR Berencana Bangun 2 Waduk Baru
+ detikNews | Rabu, 18 Jan 2017 18:53 WIB
+ Di Bima sendiri sudah ada waduk, namun lokasinya yang jauh tak mampu berfungsi menampung debit air sungai yang melimpah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Buat yang penasaran, yuk kenalan sama Mas Jumadi. Pria yang jadi tukang cukur Jokowi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Menurut Ahok, dengan adanya prediksi dari LSI Denny JA, maka hal harus menjadi pemacu bagi tim suksesnya untuk bekerja lebih keras lagi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kapolri ke Praja IPDN: Kebhinnekaan Merupakan Kekayaan dan Ancaman
+ detikNews | Rabu, 18 Jan 2017 18:51 WIB
+ Kapolri Jenderal Tito Karnavian bicara soal kebhinnekaan dan demokrasi di era globalisasi di depan praja IPDN. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Hanya 30 Detik, Kebiasaan Para Wanita Sukses Ini Patut Anda Ikuti
+ Wolipop | Rabu 18 2017, 18:41 WIB
+ Beberapa wanita sukses di dunia berbagi kebiasaan yang sama. Salah satunya adalah minum air putih setelah bangun pagi. Apa manfaatnya? 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu, 18 Jan 2017 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1)
+ detikFood | Rabu, 18 Jan 2017 18:48 WIB
+ Selulit merupakan lemak yang bergumpal kecil di bawah kulit dan sering disebut 'kulit jeruk'. Selulit seringkali tampak di paha, bokong, dan perut bagian bawah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pengusaha China Buka-bukaan Soal Tenaga Kerja Asing di RI
+ detikFinance | Rabu, 18 Jan 2017 18:47 WIB
+ Beberapa waktu lalu muncul isu TKA yang datang berbondong-bondong ke RI. Di sejumlah daerah, pemerintah banyak menemukan TKA dari China yang terbukti ilegal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pelaku Penembakan Kelab Malam Turki Akui Diperintah ISIS
+ detikNews | Rabu, 18 Jan 2017 18:45 WIB
+ Pelaku penembakan di kelab malam Turki mengaku mendapat perintah langsung dari ISIS. Pelaku juga harus mengubah target serangan di menit-menit terakhir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costa dan Conte Dikabarkan Sudah Akur Lagi
+ Sepakbola | Rabu, 18 Jan 2017 18:43 WIB
+ Perselisihan Diego Costa dan Antonio Conte sudah selesai. Mereka dikabarkan sudah damai dan berjanji memberi yang terbaik untuk Chelsea. 
+ 
+ 
+ 
+ 
+ 
+ Loading More News
+ 
+ 
+ More News
+ 
+ 
+ 
+ 
+ var LASTDATE = new Date('2017/01/18 18:43:18');
+ var STRLASTDATE = '2017/01/18 18:43:18';
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Berita Utama
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Di Kenya, Istri Diserukan Boikot Seks agar Suami Daftar Pemilu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cetak 12,9 Miliar Bilyet Uang Kertas, Peruri Bidik Omzet Rp 4 Triliun
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pesan Korut ke Obama: Fokus Berkemas, Tak Usah Urusi HAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Jawab Rumor ke Liga Inggris, Messi: Saya di Barca Selama Klub Menginginkannya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ada Calon Sekretaris MA yang Bebaskan Mafia BBM Triliunan Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Uang Rupiah Asli Hanya Dicetak di Karawang
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pengusaha Korsel Diculik dan Dibunuh Polisi-polisi Filipina
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Rabu, 18 Jan 2017 19:22 WIB
+ 
+ 
+ PDIP: Sistem Pemilu Tertutup Cocok untuk Menghindari Korupsi 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ DetikNews
+ 
+ 
+ PDIP ingin sistem proporsional tertutup diberlakukan di Pemilu untuk menghindari korupsi. 
+ 
+ Berita Terkait
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ 
+ 
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PDIP Ingin Lebih Rendah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Berita Utama
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Di Kenya, Istri Diserukan Boikot Seks agar Suami Daftar Pemilu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cetak 12,9 Miliar Bilyet Uang Kertas, Peruri Bidik Omzet Rp 4 Triliun
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pesan Korut ke Obama: Fokus Berkemas, Tak Usah Urusi HAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Jawab Rumor ke Liga Inggris, Messi: Saya di Barca Selama Klub Menginginkannya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ada Calon Sekretaris MA yang Bebaskan Mafia BBM Triliunan Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Uang Rupiah Asli Hanya Dicetak di Karawang
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pengusaha Korsel Diculik dan Dibunuh Polisi-polisi Filipina
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Berita Utama
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Di Kenya, Istri Diserukan Boikot Seks agar Suami Daftar Pemilu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Cetak 12,9 Miliar Bilyet Uang Kertas, Peruri Bidik Omzet Rp 4 Triliun
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pesan Korut ke Obama: Fokus Berkemas, Tak Usah Urusi HAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Jawab Rumor ke Liga Inggris, Messi: Saya di Barca Selama Klub Menginginkannya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ada Calon Sekretaris MA yang Bebaskan Mafia BBM Triliunan Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Uang Rupiah Asli Hanya Dicetak di Karawang
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Pengusaha Korsel Diculik dan Dibunuh Polisi-polisi Filipina
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ 
+ 
+  1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ 
+ 
+  Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ 
+ 
+  Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ 
+ 
+  Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ 
+ 
+  Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ 
+ 
+  Di Kenya, Istri Diserukan Boikot Seks agar Suami Daftar Pemilu
+ 
+ 
+  Di Kenya, Istri Diserukan Boikot Seks agar Suami Daftar Pemilu
+ 
+ 
+  Cetak 12,9 Miliar Bilyet Uang Kertas, Peruri Bidik Omzet Rp 4 Triliun
+ 
+ 
+  Cetak 12,9 Miliar Bilyet Uang Kertas, Peruri Bidik Omzet Rp 4 Triliun
+ 
+ 
+  Pesan Korut ke Obama: Fokus Berkemas, Tak Usah Urusi HAM
+ 
+ 
+  Pesan Korut ke Obama: Fokus Berkemas, Tak Usah Urusi HAM
+ 
+ 
+  Jawab Rumor ke Liga Inggris, Messi: Saya di Barca Selama Klub Menginginkannya
+ 
+ 
+  Jawab Rumor ke Liga Inggris, Messi: Saya di Barca Selama Klub Menginginkannya
+ 
+ 
+  Ada Calon Sekretaris MA yang Bebaskan Mafia BBM Triliunan Rupiah
+ 
+ 
+  Ada Calon Sekretaris MA yang Bebaskan Mafia BBM Triliunan Rupiah
+ 
+ 
+  Uang Rupiah Asli Hanya Dicetak di Karawang
+ 
+ 
+  Uang Rupiah Asli Hanya Dicetak di Karawang
+ 
+ 
+  Pengusaha Korsel Diculik dan Dibunuh Polisi-polisi Filipina
+ 
+ 
+  Pengusaha Korsel Diculik dan Dibunuh Polisi-polisi Filipina
+ 
+ 
+ Rabu, 18 Jan 2017 19:22 WIB
+ 
+ 
+ PDIP: Sistem Pemilu Tertutup Cocok untuk Menghindari Korupsi 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ DetikNews
+ 
+ 
+ PDIP ingin sistem proporsional tertutup diberlakukan di Pemilu untuk menghindari korupsi. 
+ 
+ Berita Terkait
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ 
+ 
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PDIP Ingin Lebih Rendah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rabu, 18 Jan 2017 19:22 WIB
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ DetikNews
+ 
+ 
+ PDIP ingin sistem proporsional tertutup diberlakukan di Pemilu untuk menghindari korupsi. 
+ 
+ Berita Terkait
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ 
+ 
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PDIP Ingin Lebih Rendah
+ 
+ 
+ 
+ 
+ 
+ DetikNews
+ Berita Terkait
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ 
+ 
+ 
+ 
+ Golkar Usul Ambang Batas Parlemen 10%, PDIP Ingin Lebih Rendah
+ 
+ 
+ 
+ 
+ Berita Terkait
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright1'); 
+ // ]]> -->
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright2'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*S:PILKADA 2016-17*/
+.pkd16{
+ background: url(https://cdn.detik.net.id/detik2/images/pilkadadki/bg_pkd16_2.png) #fff bottom left no-repeat;
+ border-top: solid 2px #FF8200;
+ border-bottom: solid 4px #FF8200;
+ padding: 0px 0 0px 0px;
+}
+.pkd16 li{
+ border:none;
+}
+.logo_pkd{
+ width:100%;
+ display:block;
+ text-align: center;
+ border-bottom: solid 2px #FF8200;
+ padding-bottom: 10px;
+ margin-bottom: 10px;
+ padding-top: 3px;
+ background: #FF8200;
+}
+.logo_pkd img{ 
+ width:200px;
+}
+.pkd16 .desc_nhl {
+ color: #6f6f6f;
+ height: 75px;
+ overflow: hidden;
+}
+.pkd16 .desc_nhl h2 {
+ color: #000;
+}
+.pkd16 li:hover .desc_nhl h2{
+ color:#ff7f00;
+}
+.pkd16 .list_feed li .box_img{ width:80px !important; }
+.pkd16 .list_feed .desc_nhl {width:415px;}
+.pkd16 .title_lr {
+ background-color:#FF8200;
+ padding: 5px 0 10px;
+ border-bottom: solid 2px #FF8200;
+ text-align: center;
+}
+.pkd16 .title_lr img{
+ width:180px;
+}
+.pkd16 .title_lr a{
+ float:none;
+ margin: 0;
+}
+.pkd16 .title_lr a:hover{opacity:1;}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+.pkd16 .list_feed .desc_nhl {width:320px;}
+}
+/*E:PILKADA 2016-17*/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ Rabu, 18 Jan 2017 19:11 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ Rabu, 18 Jan 2017 18:52 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agus Yudhoyono: Law Enforcement Harus Tegas untuk Cegah Narkoba
+ Rabu, 18 Jan 2017 18:33 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Lifestyle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+  Rabu, 18/01/2017 19:27 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright3'); 
+ // ]]> -->
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright4'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ detik forum +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Dosen UI Sebut Presiden Sebarkan Hoax dengan Komentarnya untuk 'Jokowi Undercover' Rabu, 18/01/2017 09:21 030140
+ Posted By : tso-s4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Penting! Live Chat 'Kenali Gejala Stroke' Rabu, 11/01/2017 15:29 020395
+ Posted By : quizmaster
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Blogdetik +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright5'); 
+ // ]]> -->
+ 
+ 
+ 
+  
+ Foto +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 8 WN India Sindikat Pemalsu Visa Digulung
+ 
+ Foto | Rabu, 18/01/2017 19:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Perajin Dupa Tingkatkan Produksi
+ 
+ Foto | Rabu, 18/01/2017 18:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Produksi Lilin Jelang Imlek Meningkat Tajam
+ 
+ Foto | Rabu, 18/01/2017 17:47 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Permintaan Dodol & Kue Ranjang Meningkat
+ 
+ Foto | Rabu, 18/01/2017 17:06 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Video +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Semua Spesial di Java Jazz Festival 2017
+ 
+ 00:58 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Ini Musisi Internasional yang Akan Manggung di Java Jazz 2017
+ 
+ 00:52 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ 
+ 04:42 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright1'); 
+ // ]]> -->
+
+ <!--// <![CDATA[
+ OA_show('showcaseright2'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ Rabu, 18 Jan 2017 19:11 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ Rabu, 18 Jan 2017 18:52 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agus Yudhoyono: Law Enforcement Harus Tegas untuk Cegah Narkoba
+ Rabu, 18 Jan 2017 18:33 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ Rabu, 18 Jan 2017 18:52 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agus Yudhoyono: Law Enforcement Harus Tegas untuk Cegah Narkoba
+ Rabu, 18 Jan 2017 18:33 WIB
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Fokus +
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 01
+ Beruang Kurus Bonbin Bandung
+ 02
+ 
+ Sajian Lezat Imlek
+ 
+ 03
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 04
+ 
+ Kapal Wisata Terbakar
+ 
+ 05
+ 
+ Desain Baru Rupiah
+ 
+ 06
+ 
+ Grammy Awards 2017
+ 
+ 07
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 08
+ 
+ Jakarta Memilih
+ 
+ 09
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 10
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ Lifestyle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+  Rabu, 18/01/2017 19:27 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Lifestyle 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2) 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya? 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1) 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright3'); 
+ // ]]> -->
+
+ <!--// <![CDATA[
+ OA_show('showcaseright4'); 
+ // ]]> -->
+
+ 
+ detik forum +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Dosen UI Sebut Presiden Sebarkan Hoax dengan Komentarnya untuk 'Jokowi Undercover' Rabu, 18/01/2017 09:21 030140
+ Posted By : tso-s4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Penting! Live Chat 'Kenali Gejala Stroke' Rabu, 11/01/2017 15:29 020395
+ Posted By : quizmaster
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ detik forum +
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Dosen UI Sebut Presiden Sebarkan Hoax dengan Komentarnya untuk 'Jokowi Undercover' Rabu, 18/01/2017 09:21 030140
+ Posted By : tso-s4
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Penting! Live Chat 'Kenali Gejala Stroke' Rabu, 11/01/2017 15:29 020395
+ Posted By : quizmaster
+ 
+ 
+ 
+ 
+ Blogdetik +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Blogdetik +
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Belajar Internet Marketing Shortcut di Sunday Sharing Surabaya #21 Selasa, 17/01/2017 12:11 030257
+ Posted By : admin
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseright5'); 
+ // ]]> -->
+
+  
+ Foto +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 8 WN India Sindikat Pemalsu Visa Digulung
+ 
+ Foto | Rabu, 18/01/2017 19:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Perajin Dupa Tingkatkan Produksi
+ 
+ Foto | Rabu, 18/01/2017 18:12 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Produksi Lilin Jelang Imlek Meningkat Tajam
+ 
+ Foto | Rabu, 18/01/2017 17:47 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Jelang Imlek, Permintaan Dodol & Kue Ranjang Meningkat
+ 
+ Foto | Rabu, 18/01/2017 17:06 WIB 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foto +
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 8 WN India Sindikat Pemalsu Visa Digulung
+ 
+ Foto | Rabu, 18/01/2017 19:12 WIB 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ Jelang Imlek, Perajin Dupa Tingkatkan Produksi
+ 
+ Foto | Rabu, 18/01/2017 18:12 WIB 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ Produksi Lilin Jelang Imlek Meningkat Tajam
+ 
+ Foto | Rabu, 18/01/2017 17:47 WIB 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ Jelang Imlek, Permintaan Dodol & Kue Ranjang Meningkat
+ 
+ Foto | Rabu, 18/01/2017 17:06 WIB 
+ 
+ 
+ Video +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Semua Spesial di Java Jazz Festival 2017
+ 
+ 00:58 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Ini Musisi Internasional yang Akan Manggung di Java Jazz 2017
+ 
+ 00:52 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ 
+ 04:42 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Video +
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ Semua Spesial di Java Jazz Festival 2017
+ 
+ 00:58 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ Ini Musisi Internasional yang Akan Manggung di Java Jazz 2017
+ 
+ 00:52 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ 
+ 04:42 |
+ Rabu 18 2017, 19:36 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Fokus +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 01
+ 
+ Beruang Kurus Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 02
+ 
+ 
+ Sajian Lezat Imlek
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 03
+ 
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04
+ 
+ 
+ Kapal Wisata Terbakar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 05
+ 
+ 
+ Desain Baru Rupiah
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 06
+ 
+ 
+ Grammy Awards 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 07
+ 
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 08
+ 
+ 
+ Jakarta Memilih
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 09
+ 
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Fokus +
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 01
+ Beruang Kurus Bonbin Bandung
+ 02
+ 
+ Sajian Lezat Imlek
+ 
+ 03
+ 
+ Arifin Putra The Hidden Treasure
+ 
+ 04
+ 
+ Kapal Wisata Terbakar
+ 
+ 05
+ 
+ Desain Baru Rupiah
+ 
+ 06
+ 
+ Grammy Awards 2017
+ 
+ 07
+ 
+ Pidato Menteri 7 Menit 
+ 
+ 08
+ 
+ Jakarta Memilih
+ 
+ 09
+ 
+ Sri Mulyani Putus Kontrak JPMorgan
+ 
+ 10
+ 
+ Mobil Pedesaan
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft1'); 
+ // ]]> -->
+ 
+ 
+ 
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Sri Mulyani: Tarif STNK Dikerek Sesuai Koordinasi
+  Rabu, 18/01/2017 19:31 WIB
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kontrak ONWJ Diteken Jadi Pionir Skema Gross Split 
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Akan Temui Sumarsono Bahas Sumbangan Proyek Reklamasi
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Irfan Bachdim Rindu Teriakan Suporter di Indonesia
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+  +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ Antrean Panjang dari Pringsurat Mengarah Ambarawa
+  Rabu, 18/01/2017 19:21 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Dari Ketinggian Tampak Lalin Tanah Abang 4 Padat Arah Cideng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Macet, Lalin di Tol JORR Menuju Bekasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Merayap, Lalin di Guntur Menuju Terminal Manggarai
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft2'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft3'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+ 
+ 
+ Suara Pembaca
+ +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tanggapan Biznet untuk Surat Pembaca Ibu Finny Selasa 17 2017, 15:55 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Beli Mobil Eks Bluebird, Alamat di BPKB dan STNK Berbeda Selasa 17 2017, 14:46 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mengapa Pajak Kendaraan Bermotor Saya Naik? Selasa 17 2017, 14:31 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft1'); 
+ // ]]> -->
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 1
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 2
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 3
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 4
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 5
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 6
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 7
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 8
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 9
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 10
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+ 2595 Komentar
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+ 2026 Komentar
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+ 1445 Komentar
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+ 1337 Komentar
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+ 1237 Komentar
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+ 1200 Komentar
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+ 1157 Komentar
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+ 1121 Komentar
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+ 1072 Komentar
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+ 993 Komentar
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Sri Mulyani: Tarif STNK Dikerek Sesuai Koordinasi
+  Rabu, 18/01/2017 19:31 WIB
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kontrak ONWJ Diteken Jadi Pionir Skema Gross Split 
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Akan Temui Sumarsono Bahas Sumbangan Proyek Reklamasi
+ 
+  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Irfan Bachdim Rindu Teriakan Suporter di Indonesia
+ 
+  
+ 
+ 
+
+
+
+ 
+ +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kontrak ONWJ Diteken Jadi Pionir Skema Gross Split 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Akan Temui Sumarsono Bahas Sumbangan Proyek Reklamasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Irfan Bachdim Rindu Teriakan Suporter di Indonesia
+ 
+ 
+  +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ Antrean Panjang dari Pringsurat Mengarah Ambarawa
+  Rabu, 18/01/2017 19:21 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Dari Ketinggian Tampak Lalin Tanah Abang 4 Padat Arah Cideng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Macet, Lalin di Tol JORR Menuju Bekasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  #Lalulintas
+ 
+ 
+ Merayap, Lalin di Guntur Menuju Terminal Manggarai
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dari Ketinggian Tampak Lalin Tanah Abang 4 Padat Arah Cideng
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Macet, Lalin di Tol JORR Menuju Bekasi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Merayap, Lalin di Guntur Menuju Terminal Manggarai
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('showcaseleft2'); 
+ // ]]> -->
+
+ <!--// <![CDATA[
+ OA_show('showcaseleft3'); 
+ // ]]> -->
+
+ 
+ Suara Pembaca
+ +
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Tanggapan Biznet untuk Surat Pembaca Ibu Finny Selasa 17 2017, 15:55 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Beli Mobil Eks Bluebird, Alamat di BPKB dan STNK Berbeda Selasa 17 2017, 14:46 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Mengapa Pajak Kendaraan Bermotor Saya Naik? Selasa 17 2017, 14:31 WIB
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ Suara Pembaca
+ +
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Tanggapan Biznet untuk Surat Pembaca Ibu Finny Selasa 17 2017, 15:55 WIB
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Beli Mobil Eks Bluebird, Alamat di BPKB dan STNK Berbeda Selasa 17 2017, 14:46 WIB
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ Mengapa Pajak Kendaraan Bermotor Saya Naik? Selasa 17 2017, 14:31 WIB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+ MostPopular
+ MostCommented
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1
+ 
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+ 
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3
+ 
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5
+ 
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6
+ 
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7
+ 
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8
+ 
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9
+ 
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10
+ 
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ Selengkapnya
+ 
+ 1
+ Jaksa Ajukan Kasasi, Tajudin Si Penjual Cobek: Saya Kaget
+ 
+ 2
+ Hadiri Bedah Buku, Ahok Protes Panitia karena Peserta Menunggu
+ 
+ 3
+ Ridwan Kamil: Bonbin Bikin Nama Bandung Buruk di Internasional
+ 
+ 4
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ 
+ 5
+ 9 Bulan Dipenjara Tanpa Dosa, Ini Jumlah Donasi ke Tajudin
+ 
+ 6
+ Messi yang Tak Pernah Menoleransi Kekalahan
+ 
+ 7
+ Anak Cindy Crawford dan Jude Law Jadi Bintang Kosmetik, Mana Lebih Cantik?
+ 
+ 8
+ 5 Kemungkinan Penyebab Seseorang Telanjang Ke Luar Rumah
+ 
+ 9
+ Jepretan Aurora Cantik dari Kokpit Pesawat di Norwegia
+ 
+ 10
+ Kata Traveler Soal Beruang Kurus di Bonbin Bandung
+ 
+ 
+ Selengkapnya
+ 
+ 
+ 
+ 
+  
+ 
+ 2595 Komentar
+ 
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 2026 Komentar
+ 
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1445 Komentar
+ 
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1337 Komentar
+ 
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1237 Komentar
+ 
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1200 Komentar
+ 
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1157 Komentar
+ 
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1121 Komentar
+ 
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 1072 Komentar
+ 
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 993 Komentar
+ 
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+ 2595 Komentar
+ 
+ Habib Rizieq Tanggapi Pidato Megawati di HUT PDIP
+ 
+ 2026 Komentar
+ 
+ Ini Pidato Megawati yang Dipersoalkan Habib Rizieq
+ 
+ 1445 Komentar
+ 
+ Polisi: Markas GMBI di Bogor Dibakar, Pelaku Diduga FPI
+ 
+ 1337 Komentar
+ 
+ Besok, FPI Demo Mabes Polri Tuntut Pencopotan Kapolda Jabar
+ 
+ 1237 Komentar
+ 
+ Amien Rais: Sidang Kasus Ahok Dipercepat Jangan Bertele-tele
+ 
+ 1200 Komentar
+ 
+ Agus Yudhoyono: Saya Yakin Unggul dalam Debat Semalam
+ 
+ 1157 Komentar
+ 
+ Kapolda Metro: Rizieq Jangan Bicara Sembarangan, Mulutmu Harimaumu
+ 
+ 1121 Komentar
+ 
+ Habib Rizieq: Jangan Mau Diadu Domba, Ayo Dialog Pertahankan NKRI
+ 
+ 1072 Komentar
+ 
+ Habib Rizieq: Sukmawati Gagal Paham soal Ceramah Saya
+ 
+ 993 Komentar
+ 
+ Jika Jadi Gubernur, Agus akan Ngantor dengan Bersepeda dan Lari
+ 
+ 
+ News Feed
+ 
+  9 Berita Terbaru
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ 
+ 
+  
+ <!--// <![CDATA[
+ OA_show('promoboxcenter'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+ detikTravel | Rabu, 18 Jan 2017 19:35 WIB
+ Neptune Memorial Reef, suatu pemakaman yang tidak biasa di dunia. Untuk datang ke sana, kita harus menyelam. Pemakaman ini adanya di bawah laut! 
+ 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('newsfeed1'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Freeport Harus Lepas 51% Saham ke Pemerintah, Tak Ada Pengecualian
+ detikFinance | Rabu, 18 Jan 2017 19:32 WIB
+ Pemerintah lewat Kementerian Energi dan Sumber Daya Mineral, menyatakan PT Freeport Indonesia harus mendivestasikan hingga 51% sahamnya dalam kontrak baru. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('advertorial1_2'); 
+ // ]]> --> 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Terima Pengembalian Uang Rp 2,5 M Terkait Kasus Pupuk
+ detikNews | Rabu, 18 Jan 2017 19:31 WIB
+ KPK menyatakan telah menerima pengembalian uang Rp 2,5 miliar terkait kasus dugaan korupsi pupuk di Perum Perhutani. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 Gerai Baru Transmart Buka Tahun Ini, 15 di Indonesia Timur
+ detikFinance | Rabu, 18 Jan 2017 19:28 WIB
+ PT Trans Retail Indonesia akan membuka 30 gerai baru Transmart tahun ini. Sebanyak 15 gerai berada di Indonesia Timur. 
+ 
+ 
+ 
+
+
+ <!--// <![CDATA[
+ OA_show('centerads1'); 
+ // ]]> -->
+
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470816207575-0'); });
+
+
+
+ 
+ 
+ 
+ Mendagri Minta Polisi Usut Foto Bendera RI Bertuliskan Arab
+ detikNews | Rabu 18 2017, 19:10 WIB
+ Menurut Tjahjo tidak boleh ada yang menghina lambang negara. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+<!--// <![CDATA[
+ OA_show('newsfeed2'); 
+ // ]]> -->
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea
+ Wolipop | Rabu, 18 Jan 2017 19:27 WIB
+ Tengok saja beberapa lipstik yang jadi laris setelah diaplikasikan Jun Ji Hyun hingga Park Shin Hye dalam drama baru-baru ini. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ George HW Bush Dirawat di Rumah Sakit karena Gangguan Pernapasan
+ detikNews | Rabu, 18 Jan 2017 19:25 WIB
+ Mantan Presiden AS George HW Bush dirawat di rumah sakit karena mengalami gangguan pernapasan. Kini, Bush senior tengah menjalani pemulihan di rumah sakit. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('carousell'); 
+ // ]]> --> 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMW Segarkan Seri 4
+ detikOto | Rabu, 18 Jan 2017 19:22 WIB
+ Seri 4 menjadi salah satu model andalan BMW yang penjualannya hampir 400.000 unit di seluruh dunia dari 2013 sampai akhir 2016. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bos Go-Jek Buka-bukaan Rencana 2017
+ detikInet | Rabu, 18 Jan 2017 19:20 WIB
+ Sejumlah produk baru dilahirkan Go-Jek tahun lalu. Tapi 2017 ini, layanan ridesharing ini juga punya rencana lain. Simak bocorannya di sini. 
+ 
+ 
+ 
+<!--// <![CDATA[
+ OA_show('newsfeed3'); 
+ // ]]> -->
+
+
+ <!--// <![CDATA[
+ OA_show('centerads2'); 
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 'Jakarta Undercover' Menyibak Gelapnya Dunia Jakarta
+ detikHot | Rabu, 18 Jan 2017 19:20 WIB
+ Grafent Pictures dan Demi Istri Production mempersembahkan seri kedua 'Jakarta Undercover: Refleksi Cinta, Pesta, dan Realita'. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ detikNews | Rabu 18 2017, 17:25 WIB
+ Menjelang waktu makan siang pengunjung ramai berdatangan di Warung Makan Lapo Boru Siagian. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selamat Ulang Tahun, Guardiola, Semoga (Cepat) Bahagia di City
+ Sepakbola | Rabu, 18 Jan 2017 19:18 WIB
+ Pep Gurdiola genap berusia 46 tahun pada hari ini, Selasa (18/1/2017). Namun di hari lahirnya ini Guardiola tidak dalam suasana hati yang baik. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2)
+ detikFood | Rabu, 18 Jan 2017 19:16 WIB
+ Selulit membuat penampilan tak menarik. Rajin makan telur dan brokoli dapat bantu cegah pembentukan selulit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sumarsono Kritik Desain MRT, Ahok: Sudah Kontrak dengan Jepang
+ detikNews | Rabu, 18 Jan 2017 19:14 WIB
+ Plt Gubernur DKI Sumarsono menyebut desain kepala MRT mirip jangkrik. Ahok lalu menegaskan, hal itu sudah ada kontrak dengan Jepang. 
+ 
+ 
+ 
+
+
+ <!--// <![CDATA[
+ OA_show('centerads3');
+ // ]]> -->
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Australia Terbuka
+ Murray Menang Tiga Set Langsung atas Petenis Muda Rusia
+ detikSport | Rabu, 18 Jan 2017 19:13 WIB
+ Andy Murray masih terlalu tangguh untuk Andrey Rublev. Menghadapi petenis 19 tahun asal Rusia itu, Murray hanya kehilangan lima gim untuk lolos ke babak ketiga. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ detikNews | Rabu, 18 Jan 2017 19:11 WIB
+ Agus Yudhoyono meminta pedagang tidak perlu khawatir. Ia berjanji akan mengakomodasi keinginan pengrajin itu. 
+ 
+ 
+ 
+
+ 
+ 
+ Facebook Dituduh Mencuri Teknologi Virtual Reality
+ CNN Indonesia | Rabu 18 Januari, 16:55 WIB
+ CEO Facebook Mark Zuckerberg harus menghadapi tuntutan hukum terkait dengan hak cipta perangkat virtual reality (VR) Oculus miliknya.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hot Photo
+ Jika Duo Serigala Jadi Sekuriti, Kira-kira Apa yang Dijagain Ya?
+ detikHot | Rabu, 18 Jan 2017 19:10 WIB
+ Duo Serigala tampil dengan kostum sekuriti di acara film terbaru mereka bertajuk 'Security Ugal-ugalan'. Merekapun tetap terlihat seksi dengan kostum itu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ada Isu Banyak SPBU Tak Lagi Jual Premium, Ini Kata Pertamina
+ detikFinance | Rabu, 18 Jan 2017 19:10 WIB
+ Dari 5.300 SPBU di seluruh Indonesia, BBM jenis premium masih dijual di 4.500 SPBU alias 85% SPBU. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku
+ detikTravel | Rabu, 18 Jan 2017 19:10 WIB
+ Biasanya tempat bermain ice skating ada di mal. Di Estonia, Anda bisa menjajal ice skating di atas penjara beku! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya?
+ detikHealth | Rabu, 18 Jan 2017 19:07 WIB
+ Untuk 'membangunkan' janin yang tertidur saat dilakukan USG 4D, perut ibu hamil seringkali tampak digoyang-goyang. Adakah pengaruhnya bagi psikis janin? 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ detikNews | Rabu, 18 Jan 2017 19:06 WIB
+ Normalisasi sungai menjadi agenda prioritas pemerintah dalam mencegah banjir bandang di Bima, Nusa Tenggara Barat (NTB) berkelanjutan. Apa upaya pemerintah? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gempa 5,2 SR Guncang Lebak, Tidak Berpotensi Tsunami
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Gempa bumi berkekuatan 5,2 Skala Richter (SR) mengguncang Lebak, Banten. Gempa yang terjadi pukul 17.51 WIB tersebut tidak berpotensi tsunami. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satiri Ingin Sumur Keramat di Beji Diakui Sebagai Cagar Budaya
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Salah satu warga yang turut melestarikan Sumur 7 Beji, Zulkarnaen (53) merasa miris dengan sikap Pemerintah yang dinilai tidak menghargai situs sejarah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mengintip Proses Cetak Uang Rupiah
+ detikFinance | Rabu, 18 Jan 2017 19:02 WIB
+ Banyak masyarakat yang belum tahu bagaimana proses pembuatan uang yang selama ini dijadikan sebagai alat transaksi ekonomi. Yuk, cari tahu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Karius Sebut Skuat Liverpool ke Piala FA Tak Sekadar Muda Usia
+ Sepakbola | Rabu, 18 Jan 2017 19:00 WIB
+ Loris Karius sepakat dengan keputusan Juergen Klopp untuk menurunkan pemain muda, sebab mereka punya kualitas yang mumpuni. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ detikFinance | Rabu, 18 Jan 2017 18:59 WIB
+ Anak perusahaan PLN, Indonesia Power, meluncurkan program untuk meningkatkan kualitas tenaga operasi dan pemeliharaan yang bersaing dengan tenaga kerja asing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ahli Hukum: Anak Bantu Jualan Cobek, Tajudin Tak Lakukan Eksploitasi
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ Ahli hukum pidana Prof Mudzakir berpendapat bila hal itu diteruskan tidak akan terhitung orang miskin masuk penjara. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RUU Penyelenggaraan Pemilu
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ PPP menyebut usulan ambang batas parlemen 10% dari Golkar merupakan sikap arogan. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu 18 2017, 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ detikNews | Rabu, 18 Jan 2017 18:54 WIB
+ Pidato para menteri dibatasi hanya 7 menit saja. Johan Budi menilai batasan waktu ini terinspirasi dari kultum, kuliah tujuh menit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cegah Banjir di Bima, Kemen PUPR Berencana Bangun 2 Waduk Baru
+ detikNews | Rabu, 18 Jan 2017 18:53 WIB
+ Di Bima sendiri sudah ada waduk, namun lokasinya yang jauh tak mampu berfungsi menampung debit air sungai yang melimpah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Buat yang penasaran, yuk kenalan sama Mas Jumadi. Pria yang jadi tukang cukur Jokowi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Menurut Ahok, dengan adanya prediksi dari LSI Denny JA, maka hal harus menjadi pemacu bagi tim suksesnya untuk bekerja lebih keras lagi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kapolri ke Praja IPDN: Kebhinnekaan Merupakan Kekayaan dan Ancaman
+ detikNews | Rabu, 18 Jan 2017 18:51 WIB
+ Kapolri Jenderal Tito Karnavian bicara soal kebhinnekaan dan demokrasi di era globalisasi di depan praja IPDN. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ Hanya 30 Detik, Kebiasaan Para Wanita Sukses Ini Patut Anda Ikuti
+ Wolipop | Rabu 18 2017, 18:41 WIB
+ Beberapa wanita sukses di dunia berbagi kebiasaan yang sama. Salah satunya adalah minum air putih setelah bangun pagi. Apa manfaatnya? 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu, 18 Jan 2017 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1)
+ detikFood | Rabu, 18 Jan 2017 18:48 WIB
+ Selulit merupakan lemak yang bergumpal kecil di bawah kulit dan sering disebut 'kulit jeruk'. Selulit seringkali tampak di paha, bokong, dan perut bagian bawah. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pengusaha China Buka-bukaan Soal Tenaga Kerja Asing di RI
+ detikFinance | Rabu, 18 Jan 2017 18:47 WIB
+ Beberapa waktu lalu muncul isu TKA yang datang berbondong-bondong ke RI. Di sejumlah daerah, pemerintah banyak menemukan TKA dari China yang terbukti ilegal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pelaku Penembakan Kelab Malam Turki Akui Diperintah ISIS
+ detikNews | Rabu, 18 Jan 2017 18:45 WIB
+ Pelaku penembakan di kelab malam Turki mengaku mendapat perintah langsung dari ISIS. Pelaku juga harus mengubah target serangan di menit-menit terakhir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costa dan Conte Dikabarkan Sudah Akur Lagi
+ Sepakbola | Rabu, 18 Jan 2017 18:43 WIB
+ Perselisihan Diego Costa dan Antonio Conte sudah selesai. Mereka dikabarkan sudah damai dan berjanji memberi yang terbaik untuk Chelsea. 
+ 
+ 
+ 
+ 
+ 
+ Loading More News
+ 
+ 
+ More News
+ 
+ 
+ 
+ News Feed
+ 
+  9 Berita Terbaru
+ 
+ 
+ 
+ +
+ 
+ 
+ 
+ News Feed
+  9 Berita Terbaru
+ 
+ 
+ +
+ 
+ 
+ <!--// <![CDATA[
+ OA_show('promoboxcenter'); 
+ // ]]> -->
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mungkin Satu-satunya di Dunia: Pemakaman di Bawah Laut
+ detikTravel | Rabu, 18 Jan 2017 19:35 WIB
+ Neptune Memorial Reef, suatu pemakaman yang tidak biasa di dunia. Untuk datang ke sana, kita harus menyelam. Pemakaman ini adanya di bawah laut! 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Freeport Harus Lepas 51% Saham ke Pemerintah, Tak Ada Pengecualian
+ detikFinance | Rabu, 18 Jan 2017 19:32 WIB
+ Pemerintah lewat Kementerian Energi dan Sumber Daya Mineral, menyatakan PT Freeport Indonesia harus mendivestasikan hingga 51% sahamnya dalam kontrak baru. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KPK Terima Pengembalian Uang Rp 2,5 M Terkait Kasus Pupuk
+ detikNews | Rabu, 18 Jan 2017 19:31 WIB
+ KPK menyatakan telah menerima pengembalian uang Rp 2,5 miliar terkait kasus dugaan korupsi pupuk di Perum Perhutani. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 Gerai Baru Transmart Buka Tahun Ini, 15 di Indonesia Timur
+ detikFinance | Rabu, 18 Jan 2017 19:28 WIB
+ PT Trans Retail Indonesia akan membuka 30 gerai baru Transmart tahun ini. Sebanyak 15 gerai berada di Indonesia Timur. 
+ <!--// <![CDATA[
+ OA_show('centerads1'); 
+ // ]]> -->
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470816207575-0'); });
+
+
+ 
+ Mendagri Minta Polisi Usut Foto Bendera RI Bertuliskan Arab
+ detikNews | Rabu 18 2017, 19:10 WIB
+ Menurut Tjahjo tidak boleh ada yang menghina lambang negara. 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 Lipstik Ini Laku Keras Pasca Dipakai Artis di Drama Korea
+ Wolipop | Rabu, 18 Jan 2017 19:27 WIB
+ Tengok saja beberapa lipstik yang jadi laris setelah diaplikasikan Jun Ji Hyun hingga Park Shin Hye dalam drama baru-baru ini. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ George HW Bush Dirawat di Rumah Sakit karena Gangguan Pernapasan
+ detikNews | Rabu, 18 Jan 2017 19:25 WIB
+ Mantan Presiden AS George HW Bush dirawat di rumah sakit karena mengalami gangguan pernapasan. Kini, Bush senior tengah menjalani pemulihan di rumah sakit. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMW Segarkan Seri 4
+ detikOto | Rabu, 18 Jan 2017 19:22 WIB
+ Seri 4 menjadi salah satu model andalan BMW yang penjualannya hampir 400.000 unit di seluruh dunia dari 2013 sampai akhir 2016. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bos Go-Jek Buka-bukaan Rencana 2017
+ detikInet | Rabu, 18 Jan 2017 19:20 WIB
+ Sejumlah produk baru dilahirkan Go-Jek tahun lalu. Tapi 2017 ini, layanan ridesharing ini juga punya rencana lain. Simak bocorannya di sini. 
+ <!--// <![CDATA[
+ OA_show('centerads2'); 
+ // ]]> -->
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 'Jakarta Undercover' Menyibak Gelapnya Dunia Jakarta
+ detikHot | Rabu, 18 Jan 2017 19:20 WIB
+ Grafent Pictures dan Demi Istri Production mempersembahkan seri kedua 'Jakarta Undercover: Refleksi Cinta, Pesta, dan Realita'. 
+ 
+ Lapo Senayan, Tempat Makan Langganan Anggota Dewan hingga Menteri
+ detikNews | Rabu 18 2017, 17:25 WIB
+ Menjelang waktu makan siang pengunjung ramai berdatangan di Warung Makan Lapo Boru Siagian. 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selamat Ulang Tahun, Guardiola, Semoga (Cepat) Bahagia di City
+ Sepakbola | Rabu, 18 Jan 2017 19:18 WIB
+ Pep Gurdiola genap berusia 46 tahun pada hari ini, Selasa (18/1/2017). Namun di hari lahirnya ini Guardiola tidak dalam suasana hati yang baik. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (2)
+ detikFood | Rabu, 18 Jan 2017 19:16 WIB
+ Selulit membuat penampilan tak menarik. Rajin makan telur dan brokoli dapat bantu cegah pembentukan selulit. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sumarsono Kritik Desain MRT, Ahok: Sudah Kontrak dengan Jepang
+ detikNews | Rabu, 18 Jan 2017 19:14 WIB
+ Plt Gubernur DKI Sumarsono menyebut desain kepala MRT mirip jangkrik. Ahok lalu menegaskan, hal itu sudah ada kontrak dengan Jepang. 
+ <!--// <![CDATA[
+ OA_show('centerads3');
+ // ]]> -->
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Australia Terbuka
+ Murray Menang Tiga Set Langsung atas Petenis Muda Rusia
+ detikSport | Rabu, 18 Jan 2017 19:13 WIB
+ Andy Murray masih terlalu tangguh untuk Andrey Rublev. Menghadapi petenis 19 tahun asal Rusia itu, Murray hanya kehilangan lima gim untuk lolos ke babak ketiga. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Curhat Pembuat Miniatur ke Agus: Sekarang Dilarang Pasok ke Monas
+ detikNews | Rabu, 18 Jan 2017 19:11 WIB
+ Agus Yudhoyono meminta pedagang tidak perlu khawatir. Ia berjanji akan mengakomodasi keinginan pengrajin itu. 
+ Facebook Dituduh Mencuri Teknologi Virtual Reality
+ CNN Indonesia | Rabu 18 Januari, 16:55 WIB
+ CEO Facebook Mark Zuckerberg harus menghadapi tuntutan hukum terkait dengan hak cipta perangkat virtual reality (VR) Oculus miliknya.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hot Photo
+ Jika Duo Serigala Jadi Sekuriti, Kira-kira Apa yang Dijagain Ya?
+ detikHot | Rabu, 18 Jan 2017 19:10 WIB
+ Duo Serigala tampil dengan kostum sekuriti di acara film terbaru mereka bertajuk 'Security Ugal-ugalan'. Merekapun tetap terlihat seksi dengan kostum itu. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ada Isu Banyak SPBU Tak Lagi Jual Premium, Ini Kata Pertamina
+ detikFinance | Rabu, 18 Jan 2017 19:10 WIB
+ Dari 5.300 SPBU di seluruh Indonesia, BBM jenis premium masih dijual di 4.500 SPBU alias 85% SPBU. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tempat Ice Skating Unik di Penjara Beku
+ detikTravel | Rabu, 18 Jan 2017 19:10 WIB
+ Biasanya tempat bermain ice skating ada di mal. Di Estonia, Anda bisa menjajal ice skating di atas penjara beku! 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Perut 'Digoyang' Demi Lihat Wajah Bayi di USG 4D, Aman Tidak Ya?
+ detikHealth | Rabu, 18 Jan 2017 19:07 WIB
+ Untuk 'membangunkan' janin yang tertidur saat dilakukan USG 4D, perut ibu hamil seringkali tampak digoyang-goyang. Adakah pengaruhnya bagi psikis janin? 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.063 Unit Rumah Warga Bantaran Sungai di Bima akan Direlokasi
+ detikNews | Rabu, 18 Jan 2017 19:06 WIB
+ Normalisasi sungai menjadi agenda prioritas pemerintah dalam mencegah banjir bandang di Bima, Nusa Tenggara Barat (NTB) berkelanjutan. Apa upaya pemerintah? 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gempa 5,2 SR Guncang Lebak, Tidak Berpotensi Tsunami
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Gempa bumi berkekuatan 5,2 Skala Richter (SR) mengguncang Lebak, Banten. Gempa yang terjadi pukul 17.51 WIB tersebut tidak berpotensi tsunami. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satiri Ingin Sumur Keramat di Beji Diakui Sebagai Cagar Budaya
+ detikNews | Rabu, 18 Jan 2017 19:02 WIB
+ Salah satu warga yang turut melestarikan Sumur 7 Beji, Zulkarnaen (53) merasa miris dengan sikap Pemerintah yang dinilai tidak menghargai situs sejarah. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mengintip Proses Cetak Uang Rupiah
+ detikFinance | Rabu, 18 Jan 2017 19:02 WIB
+ Banyak masyarakat yang belum tahu bagaimana proses pembuatan uang yang selama ini dijadikan sebagai alat transaksi ekonomi. Yuk, cari tahu. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Karius Sebut Skuat Liverpool ke Piala FA Tak Sekadar Muda Usia
+ Sepakbola | Rabu, 18 Jan 2017 19:00 WIB
+ Loris Karius sepakat dengan keputusan Juergen Klopp untuk menurunkan pemain muda, sebab mereka punya kualitas yang mumpuni. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Begini Cara PLN Hadapi Serbuan Tenaga Kerja Asing
+ detikFinance | Rabu, 18 Jan 2017 18:59 WIB
+ Anak perusahaan PLN, Indonesia Power, meluncurkan program untuk meningkatkan kualitas tenaga operasi dan pemeliharaan yang bersaing dengan tenaga kerja asing. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ahli Hukum: Anak Bantu Jualan Cobek, Tajudin Tak Lakukan Eksploitasi
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ Ahli hukum pidana Prof Mudzakir berpendapat bila hal itu diteruskan tidak akan terhitung orang miskin masuk penjara. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RUU Penyelenggaraan Pemilu
+ Golkar Usul Ambang Batas Parlemen 10%, PPP: Itu Arogansi Politik
+ detikNews | Rabu, 18 Jan 2017 18:59 WIB
+ PPP menyebut usulan ambang batas parlemen 10% dari Golkar merupakan sikap arogan. 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu 18 2017, 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pidato Menteri 7 Menit, Johan Budi: Mungkin Ilhamnya dari Kultum
+ detikNews | Rabu, 18 Jan 2017 18:54 WIB
+ Pidato para menteri dibatasi hanya 7 menit saja. Johan Budi menilai batasan waktu ini terinspirasi dari kultum, kuliah tujuh menit. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cegah Banjir di Bima, Kemen PUPR Berencana Bangun 2 Waduk Baru
+ detikNews | Rabu, 18 Jan 2017 18:53 WIB
+ Di Bima sendiri sudah ada waduk, namun lokasinya yang jauh tak mampu berfungsi menampung debit air sungai yang melimpah. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kenalan dengan Mas Jumadi, Tukang Cukur Jokowi
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Buat yang penasaran, yuk kenalan sama Mas Jumadi. Pria yang jadi tukang cukur Jokowi. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dinamika Pilgub DKI
+ Urutan Kedua di Survei LSI Denny JA, Ahok: Timses Mesti Kerja Keras
+ detikNews | Rabu, 18 Jan 2017 18:52 WIB
+ Menurut Ahok, dengan adanya prediksi dari LSI Denny JA, maka hal harus menjadi pemacu bagi tim suksesnya untuk bekerja lebih keras lagi. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kapolri ke Praja IPDN: Kebhinnekaan Merupakan Kekayaan dan Ancaman
+ detikNews | Rabu, 18 Jan 2017 18:51 WIB
+ Kapolri Jenderal Tito Karnavian bicara soal kebhinnekaan dan demokrasi di era globalisasi di depan praja IPDN. 
+ 
+ Hanya 30 Detik, Kebiasaan Para Wanita Sukses Ini Patut Anda Ikuti
+ Wolipop | Rabu 18 2017, 18:41 WIB
+ Beberapa wanita sukses di dunia berbagi kebiasaan yang sama. Salah satunya adalah minum air putih setelah bangun pagi. Apa manfaatnya? 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cerita Orangutan yang Mau Kabur dari Kebun Binatang di Inggris
+ detikTravel | Rabu, 18 Jan 2017 18:50 WIB
+ Kebun binatang merupakan tempat liburan yang seru. Tapi bagaimana kalau binatangnya kabur dan bikin heboh? Inilah yang terjadi pada orangutan di Inggris. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Atasi Selulit dengan 10 Makanan Enak dan Sehat Ini (1)
+ detikFood | Rabu, 18 Jan 2017 18:48 WIB
+ Selulit merupakan lemak yang bergumpal kecil di bawah kulit dan sering disebut 'kulit jeruk'. Selulit seringkali tampak di paha, bokong, dan perut bagian bawah. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pengusaha China Buka-bukaan Soal Tenaga Kerja Asing di RI
+ detikFinance | Rabu, 18 Jan 2017 18:47 WIB
+ Beberapa waktu lalu muncul isu TKA yang datang berbondong-bondong ke RI. Di sejumlah daerah, pemerintah banyak menemukan TKA dari China yang terbukti ilegal. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pelaku Penembakan Kelab Malam Turki Akui Diperintah ISIS
+ detikNews | Rabu, 18 Jan 2017 18:45 WIB
+ Pelaku penembakan di kelab malam Turki mengaku mendapat perintah langsung dari ISIS. Pelaku juga harus mengubah target serangan di menit-menit terakhir. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costa dan Conte Dikabarkan Sudah Akur Lagi
+ Sepakbola | Rabu, 18 Jan 2017 18:43 WIB
+ Perselisihan Diego Costa dan Antonio Conte sudah selesai. Mereka dikabarkan sudah damai dan berjanji memberi yang terbaik untuk Chelsea. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright @ 2016 detikcom, All right reserved
+ Redaksi ·
+ Pedoman Media Siber ·
+ Karir ·
+ Kotak Pos ·
+ 
+ Privacy Policy ·
+ Disclaimer
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright @ 2016 detikcom, All right reserved
+ Redaksi ·
+ Pedoman Media Siber ·
+ Karir ·
+ Kotak Pos ·
+ 
+ Privacy Policy ·
+ Disclaimer
+ 
+ 
+ 
+ 
+ 
+ Copyright @ 2016 detikcom, All right reserved
+ Redaksi ·
+ Pedoman Media Siber ·
+ Karir ·
+ Kotak Pos ·
+ 
+ Privacy Policy ·
+ Disclaimer
+ 
+ Copyright @ 2016 detikcom, All right reserved
+ Redaksi ·
+ Pedoman Media Siber ·
+ Karir ·
+ Kotak Pos ·
+ 
+ Privacy Policy ·
+ Disclaimer
+ 
